@@ -1,0 +1,5282 @@
+[
+    {
+        "hesapismi": "LexiKordi1",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -12400,
+                "kordiY": -28000
+            },
+            "yakamoz": {
+                "kordiX": 11300,
+                "kordiY": -27100
+            },
+            "avrasya": {
+                "kordiX": -4300,
+                "kordiY": -10800
+            },
+            "pruva": {
+                "kordiX": 15100,
+                "kordiY": 27500
+            },
+            "velena": {
+                "kordiX": 6700,
+                "kordiY": -25300
+            },
+            "flador": {
+                "kordiX": 5700,
+                "kordiY": -10000
+            },
+            "astra": {
+                "kordiX": -25100,
+                "kordiY": 11200
+            }
+        }
+    },
+    {
+        "hesapismi": "LexiKordi2",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -26000,
+                "kordiY": -2401
+            },
+            "yakamoz": {
+                "kordiX": 8700,
+                "kordiY": -14100
+            },
+            "avrasya": {
+                "kordiX": -3400,
+                "kordiY": 9700
+            },
+            "pruva": {
+                "kordiX": 4600,
+                "kordiY": -25000
+            },
+            "velena": {
+                "kordiX": 2000,
+                "kordiY": 15600
+            },
+            "flador": {
+                "kordiX": 9200,
+                "kordiY": 11600
+            },
+            "astra": {
+                "kordiX": -24000,
+                "kordiY": 22300
+            }
+        }
+    },
+    {
+        "hesapismi": "LexiKordi3",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 19800,
+                "kordiY": 18300
+            },
+            "yakamoz": {
+                "kordiX": -13500,
+                "kordiY": -6100
+            },
+            "avrasya": {
+                "kordiX": 26400,
+                "kordiY": 9100
+            },
+            "pruva": {
+                "kordiX": -25700,
+                "kordiY": 4000
+            },
+            "velena": {
+                "kordiX": 10100,
+                "kordiY": 6100
+            },
+            "flador": {
+                "kordiX": 200,
+                "kordiY": -20500
+            },
+            "astra": {
+                "kordiX": 10200,
+                "kordiY": -20400
+            }
+        }
+    },
+    {
+        "hesapismi": "LexiKordi4",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 25900,
+                "kordiY": 16200
+            },
+            "yakamoz": {
+                "kordiX": -17600,
+                "kordiY": 13000
+            },
+            "avrasya": {
+                "kordiX": -18600,
+                "kordiY": 9700
+            },
+            "pruva": {
+                "kordiX": 9600,
+                "kordiY": 27200
+            },
+            "velena": {
+                "kordiX": -11000,
+                "kordiY": -16600
+            },
+            "flador": {
+                "kordiX": 16000,
+                "kordiY": -13100
+            },
+            "astra": {
+                "kordiX": -21600,
+                "kordiY": 11500
+            }
+        }
+    },
+    {
+        "hesapismi": "LexiKordi5",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -12500,
+                "kordiY": 3700
+            },
+            "yakamoz": {
+                "kordiX": 7400,
+                "kordiY": -9300
+            },
+            "avrasya": {
+                "kordiX": 24000,
+                "kordiY": 13500
+            },
+            "pruva": {
+                "kordiX": -10000,
+                "kordiY": 17000
+            },
+            "velena": {
+                "kordiX": 25600,
+                "kordiY": 27600
+            },
+            "flador": {
+                "kordiX": 1100,
+                "kordiY": 16600
+            },
+            "astra": {
+                "kordiX": 15000,
+                "kordiY": -25800
+            }
+        }
+    },
+    {
+        "hesapismi": "LexiKordi6",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 10000,
+                "kordiY": 20000
+            },
+            "yakamoz": {
+                "kordiX": 360,
+                "kordiY": 900
+            },
+            "avrasya": {
+                "kordiX": 18600,
+                "kordiY": -20000
+            },
+            "pruva": {
+                "kordiX": 10100,
+                "kordiY": -25500
+            },
+            "velena": {
+                "kordiX": -6000,
+                "kordiY": 7100
+            },
+            "flador": {
+                "kordiX": -16800,
+                "kordiY": 2100
+            },
+            "astra": {
+                "kordiX": -21000,
+                "kordiY": -16200
+            }
+        }
+    },
+    {
+        "hesapismi": "LexiKordi7",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -16000,
+                "kordiY": -20800
+            },
+            "yakamoz": {
+                "kordiX": -1600,
+                "kordiY": 22200
+            },
+            "avrasya": {
+                "kordiX": 4900,
+                "kordiY": 14700
+            },
+            "pruva": {
+                "kordiX": -11100,
+                "kordiY": 20600
+            },
+            "velena": {
+                "kordiX": 26800,
+                "kordiY": -6600
+            },
+            "flador": {
+                "kordiX": -8000,
+                "kordiY": -21500
+            },
+            "astra": {
+                "kordiX": 5400,
+                "kordiY": -3700
+            }
+        }
+    },
+    {
+        "hesapismi": "LexiKordi8",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -16300,
+                "kordiY": -7400
+            },
+            "yakamoz": {
+                "kordiX": -21500,
+                "kordiY": 22600
+            },
+            "avrasya": {
+                "kordiX": -200,
+                "kordiY": 20500
+            },
+            "pruva": {
+                "kordiX": -25400,
+                "kordiY": -15600
+            },
+            "velena": {
+                "kordiX": -16800,
+                "kordiY": 10100
+            },
+            "flador": {
+                "kordiX": -7400,
+                "kordiY": -23000
+            },
+            "astra": {
+                "kordiX": 22100,
+                "kordiY": 7500
+            }
+        }
+    },
+    {
+        "hesapismi": "LexiKordi9",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -21700,
+                "kordiY": 13000
+            },
+            "yakamoz": {
+                "kordiX": -15200,
+                "kordiY": 17900
+            },
+            "avrasya": {
+                "kordiX": 6000,
+                "kordiY": -11500
+            },
+            "pruva": {
+                "kordiX": 19500,
+                "kordiY": 24000
+            },
+            "velena": {
+                "kordiX": -10300,
+                "kordiY": 11700
+            },
+            "flador": {
+                "kordiX": -25000,
+                "kordiY": -10300
+            },
+            "astra": {
+                "kordiX": -27200,
+                "kordiY": 10400
+            }
+        }
+    },
+    {
+        "hesapismi": "LexiKordi10",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 7100,
+                "kordiY": 22400
+            },
+            "yakamoz": {
+                "kordiX": -14000,
+                "kordiY": -7000
+            },
+            "avrasya": {
+                "kordiX": -7800,
+                "kordiY": -2000
+            },
+            "pruva": {
+                "kordiX": 26400,
+                "kordiY": 12200
+            },
+            "velena": {
+                "kordiX": 11200,
+                "kordiY": 6300
+            },
+            "flador": {
+                "kordiX": -27800,
+                "kordiY": 17100
+            },
+            "astra": {
+                "kordiX": -27200,
+                "kordiY": -20900
+            }
+        }
+    },
+    {
+        "hesapismi": "LexiKordi11",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -2700,
+                "kordiY": 11500
+            },
+            "yakamoz": {
+                "kordiX": -14800,
+                "kordiY": -9800
+            },
+            "avrasya": {
+                "kordiX": 1000,
+                "kordiY": 17700
+            },
+            "pruva": {
+                "kordiX": -20100,
+                "kordiY": -20000
+            },
+            "velena": {
+                "kordiX": 1100,
+                "kordiY": 27600
+            },
+            "flador": {
+                "kordiX": -23000,
+                "kordiY": -25000
+            },
+            "astra": {
+                "kordiX": -24300,
+                "kordiY": 8500
+            }
+        }
+    },
+    {
+        "hesapismi": "LexiKordi12",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 9700,
+                "kordiY": -2700
+            },
+            "yakamoz": {
+                "kordiX": 10500,
+                "kordiY": 16000
+            },
+            "avrasya": {
+                "kordiX": 10600,
+                "kordiY": 200
+            },
+            "pruva": {
+                "kordiX": 13800,
+                "kordiY": -21400
+            },
+            "velena": {
+                "kordiX": -13100,
+                "kordiY": -13000
+            },
+            "flador": {
+                "kordiX": -21700,
+                "kordiY": 7900
+            },
+            "astra": {
+                "kordiX": 22800,
+                "kordiY": 20000
+            }
+        }
+    },
+    {
+        "hesapismi": "LexiKordi13",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -19000,
+                "kordiY": -8800
+            },
+            "yakamoz": {
+                "kordiX": -4200,
+                "kordiY": -5400
+            },
+            "avrasya": {
+                "kordiX": 3900,
+                "kordiY": -18800
+            },
+            "pruva": {
+                "kordiX": 26100,
+                "kordiY": -11700
+            },
+            "velena": {
+                "kordiX": -23200,
+                "kordiY": 12500
+            },
+            "flador": {
+                "kordiX": -7000,
+                "kordiY": 7800
+            },
+            "astra": {
+                "kordiX": 7400,
+                "kordiY": 6000
+            }
+        }
+    },
+    {
+        "hesapismi": "LexiKordi14",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -28000,
+                "kordiY": 9200
+            },
+            "yakamoz": {
+                "kordiX": 16000,
+                "kordiY": -18200
+            },
+            "avrasya": {
+                "kordiX": 9000,
+                "kordiY": 16100
+            },
+            "pruva": {
+                "kordiX": 26400,
+                "kordiY": 19100
+            },
+            "velena": {
+                "kordiX": -5200,
+                "kordiY": 7900
+            },
+            "flador": {
+                "kordiX": -16500,
+                "kordiY": -6500
+            },
+            "astra": {
+                "kordiX": -23100,
+                "kordiY": -16000
+            }
+        }
+    },
+    {
+        "hesapismi": "LexiKordi15",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -500,
+                "kordiY": -6600
+            },
+            "yakamoz": {
+                "kordiX": 4300,
+                "kordiY": 21400
+            },
+            "avrasya": {
+                "kordiX": 4000,
+                "kordiY": -22000
+            },
+            "pruva": {
+                "kordiX": -11000,
+                "kordiY": -25000
+            },
+            "velena": {
+                "kordiX": -7000,
+                "kordiY": -3400
+            },
+            "flador": {
+                "kordiX": -21700,
+                "kordiY": 25600
+            },
+            "astra": {
+                "kordiX": -16000,
+                "kordiY": 14300
+            }
+        }
+    },
+    {
+        "hesapismi": "LexiKordi16",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 11500,
+                "kordiY": -18000
+            },
+            "yakamoz": {
+                "kordiX": 21000,
+                "kordiY": 500
+            },
+            "avrasya": {
+                "kordiX": -6000,
+                "kordiY": -12500
+            },
+            "pruva": {
+                "kordiX": 21500,
+                "kordiY": -19000
+            },
+            "velena": {
+                "kordiX": 7500,
+                "kordiY": -16300
+            },
+            "flador": {
+                "kordiX": -21500,
+                "kordiY": 4100
+            },
+            "astra": {
+                "kordiX": 20600,
+                "kordiY": 24300
+            }
+        }
+    },
+    {
+        "hesapismi": "LexiKordi17",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 23300,
+                "kordiY": -25600
+            },
+            "yakamoz": {
+                "kordiX": 13000,
+                "kordiY": 400
+            },
+            "avrasya": {
+                "kordiX": 9400,
+                "kordiY": 21100
+            },
+            "pruva": {
+                "kordiX": 9900,
+                "kordiY": 15000
+            },
+            "velena": {
+                "kordiX": 0,
+                "kordiY": 18000
+            },
+            "flador": {
+                "kordiX": -4200,
+                "kordiY": -24400
+            },
+            "astra": {
+                "kordiX": -25400,
+                "kordiY": -25000
+            }
+        }
+    },
+    {
+        "hesapismi": "LexiKordi18",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -13400,
+                "kordiY": -1500
+            },
+            "yakamoz": {
+                "kordiX": -11000,
+                "kordiY": 15900
+            },
+            "avrasya": {
+                "kordiX": 22400,
+                "kordiY": 2400
+            },
+            "pruva": {
+                "kordiX": -21900,
+                "kordiY": 28000
+            },
+            "velena": {
+                "kordiX": -10600,
+                "kordiY": 15200
+            },
+            "flador": {
+                "kordiX": 15600,
+                "kordiY": -8600
+            },
+            "astra": {
+                "kordiX": -13000,
+                "kordiY": 200
+            }
+        }
+    },
+    {
+        "hesapismi": "LexiKordi19",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 12100,
+                "kordiY": 14200
+            },
+            "yakamoz": {
+                "kordiX": -12300,
+                "kordiY": -21700
+            },
+            "avrasya": {
+                "kordiX": -16300,
+                "kordiY": 15500
+            },
+            "pruva": {
+                "kordiX": -14300,
+                "kordiY": -22600
+            },
+            "velena": {
+                "kordiX": 14700,
+                "kordiY": 20000
+            },
+            "flador": {
+                "kordiX": 16300,
+                "kordiY": -14100
+            },
+            "astra": {
+                "kordiX": -5300,
+                "kordiY": -7800
+            }
+        }
+    },
+    {
+        "hesapismi": "LexiKordi20",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -18000,
+                "kordiY": -4000
+            },
+            "yakamoz": {
+                "kordiX": -22500,
+                "kordiY": 6000
+            },
+            "avrasya": {
+                "kordiX": 15000,
+                "kordiY": -23600
+            },
+            "pruva": {
+                "kordiX": 5000,
+                "kordiY": 6500
+            },
+            "velena": {
+                "kordiX": -2600,
+                "kordiY": 16400
+            },
+            "flador": {
+                "kordiX": 26400,
+                "kordiY": 11800
+            },
+            "astra": {
+                "kordiX": 9000,
+                "kordiY": 6100
+            }
+        }
+    },
+    {
+        "hesapismi": "LexiKordi21",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 16000,
+                "kordiY": -13000
+            },
+            "yakamoz": {
+                "kordiX": -7500,
+                "kordiY": 12300
+            },
+            "avrasya": {
+                "kordiX": 24700,
+                "kordiY": 8500
+            },
+            "pruva": {
+                "kordiX": -12300,
+                "kordiY": -7600
+            },
+            "velena": {
+                "kordiX": 24200,
+                "kordiY": -15800
+            },
+            "flador": {
+                "kordiX": -28000,
+                "kordiY": -14100
+            },
+            "astra": {
+                "kordiX": 800,
+                "kordiY": 8600
+            }
+        }
+    },
+    {
+        "hesapismi": "LexiKordi22",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 17300,
+                "kordiY": -4200
+            },
+            "yakamoz": {
+                "kordiX": 5200,
+                "kordiY": 8000
+            },
+            "avrasya": {
+                "kordiX": -15000,
+                "kordiY": 16100
+            },
+            "pruva": {
+                "kordiX": 12600,
+                "kordiY": -3000
+            },
+            "velena": {
+                "kordiX": -26000,
+                "kordiY": 10100
+            },
+            "flador": {
+                "kordiX": 23900,
+                "kordiY": 24600
+            },
+            "astra": {
+                "kordiX": 21000,
+                "kordiY": 11000
+            }
+        }
+    },
+    {
+        "hesapismi": "LexiKordi23",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -23600,
+                "kordiY": -10000
+            },
+            "yakamoz": {
+                "kordiX": -14700,
+                "kordiY": -15200
+            },
+            "avrasya": {
+                "kordiX": -20000,
+                "kordiY": 17200
+            },
+            "pruva": {
+                "kordiX": -10100,
+                "kordiY": 27100
+            },
+            "velena": {
+                "kordiX": 25300,
+                "kordiY": -24500
+            },
+            "flador": {
+                "kordiX": -17500,
+                "kordiY": 14300
+            },
+            "astra": {
+                "kordiX": 15000,
+                "kordiY": 5600
+            }
+        }
+    },
+    {
+        "hesapismi": "LexiKordi24",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 25400,
+                "kordiY": -9700
+            },
+            "yakamoz": {
+                "kordiX": 16400,
+                "kordiY": 16700
+            },
+            "avrasya": {
+                "kordiX": -11600,
+                "kordiY": 3400
+            },
+            "pruva": {
+                "kordiX": 23800,
+                "kordiY": 2300
+            },
+            "velena": {
+                "kordiX": 5400,
+                "kordiY": 24700
+            },
+            "flador": {
+                "kordiX": 1600,
+                "kordiY": -25500
+            },
+            "astra": {
+                "kordiX": -26000,
+                "kordiY": -25800
+            }
+        }
+    },
+    {
+        "hesapismi": "LexiKordi25",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 24500,
+                "kordiY": 25300
+            },
+            "yakamoz": {
+                "kordiX": -21300,
+                "kordiY": -2000
+            },
+            "avrasya": {
+                "kordiX": -21600,
+                "kordiY": 5600
+            },
+            "pruva": {
+                "kordiX": 20000,
+                "kordiY": 5500
+            },
+            "velena": {
+                "kordiX": -23800,
+                "kordiY": 6900
+            },
+            "flador": {
+                "kordiX": -11600,
+                "kordiY": -16700
+            },
+            "astra": {
+                "kordiX": 20200,
+                "kordiY": -22500
+            }
+        }
+    },
+    {
+        "hesapismi": "LexiKordi27",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -14506,
+                "kordiY": 5000
+            },
+            "yakamoz": {
+                "kordiX": -19207,
+                "kordiY": 13788
+            },
+            "avrasya": {
+                "kordiX": 8256,
+                "kordiY": -2857
+            },
+            "pruva": {
+                "kordiX": -25468,
+                "kordiY": -10890
+            },
+            "velena": {
+                "kordiX": -21535,
+                "kordiY": 20000
+            },
+            "flador": {
+                "kordiX": -4740,
+                "kordiY": 19732
+            },
+            "astra": {
+                "kordiX": 1700,
+                "kordiY": 11570
+            }
+        }
+    },
+    {
+        "hesapismi": "LexiKordi28",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 22800,
+                "kordiY": -23600
+            },
+            "yakamoz": {
+                "kordiX": -7930,
+                "kordiY": -13570
+            },
+            "avrasya": {
+                "kordiX": -14530,
+                "kordiY": -14256
+            },
+            "pruva": {
+                "kordiX": 9400,
+                "kordiY": 6550
+            },
+            "velena": {
+                "kordiX": -27753,
+                "kordiY": 14581
+            },
+            "flador": {
+                "kordiX": 14498,
+                "kordiY": -1405
+            },
+            "astra": {
+                "kordiX": -19389,
+                "kordiY": -14608
+            }
+        }
+    },
+    {
+        "hesapismi": "LexiKordi29",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 11304,
+                "kordiY": 22156
+            },
+            "yakamoz": {
+                "kordiX": 22869,
+                "kordiY": 3855
+            },
+            "avrasya": {
+                "kordiX": 12717,
+                "kordiY": -3622
+            },
+            "pruva": {
+                "kordiX": 11804,
+                "kordiY": -2398
+            },
+            "velena": {
+                "kordiX": -7624,
+                "kordiY": -19836
+            },
+            "flador": {
+                "kordiX": -7919,
+                "kordiY": 21184
+            },
+            "astra": {
+                "kordiX": -16376,
+                "kordiY": -4304
+            }
+        }
+    },
+    {
+        "hesapismi": "LexiKordi30",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 16266,
+                "kordiY": -27725
+            },
+            "yakamoz": {
+                "kordiX": 25587,
+                "kordiY": 3806
+            },
+            "avrasya": {
+                "kordiX": -26729,
+                "kordiY": -18738
+            },
+            "pruva": {
+                "kordiX": 6717,
+                "kordiY": 25103
+            },
+            "velena": {
+                "kordiX": 11648,
+                "kordiY": 17056
+            },
+            "flador": {
+                "kordiX": 2610,
+                "kordiY": -20458
+            },
+            "astra": {
+                "kordiX": -25047,
+                "kordiY": -27643
+            }
+        }
+    },
+    {
+        "hesapismi": "msgkordi1",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -7523,
+                "kordiY": -9844
+            },
+            "yakamoz": {
+                "kordiX": 18777,
+                "kordiY": -5421
+            },
+            "avrasya": {
+                "kordiX": -15991,
+                "kordiY": -1461
+            },
+            "pruva": {
+                "kordiX": 3869,
+                "kordiY": -2884
+            },
+            "velena": {
+                "kordiX": -12080,
+                "kordiY": 3440
+            },
+            "flador": {
+                "kordiX": 25985,
+                "kordiY": 12064
+            },
+            "astra": {
+                "kordiX": 26424,
+                "kordiY": -1474
+            }
+        }
+    },
+    {
+        "hesapismi": "msgkordi2",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 24475,
+                "kordiY": -23169
+            },
+            "yakamoz": {
+                "kordiX": 21117,
+                "kordiY": 5117
+            },
+            "avrasya": {
+                "kordiX": -15278,
+                "kordiY": 27260
+            },
+            "pruva": {
+                "kordiX": 17000,
+                "kordiY": 9602
+            },
+            "velena": {
+                "kordiX": 11635,
+                "kordiY": 10538
+            },
+            "flador": {
+                "kordiX": 21404,
+                "kordiY": 12955
+            },
+            "astra": {
+                "kordiX": -10448,
+                "kordiY": 6322
+            }
+        }
+    },
+    {
+        "hesapismi": "msgkordi3",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 1990,
+                "kordiY": 22771
+            },
+            "yakamoz": {
+                "kordiX": 21117,
+                "kordiY": 5117
+            },
+            "avrasya": {
+                "kordiX": 25754,
+                "kordiY": -11230
+            },
+            "pruva": {
+                "kordiX": 17469,
+                "kordiY": 18718
+            },
+            "velena": {
+                "kordiX": -3968,
+                "kordiY": 10325
+            },
+            "flador": {
+                "kordiX": -15258,
+                "kordiY": -21468
+            },
+            "astra": {
+                "kordiX": 14983,
+                "kordiY": -23250
+            }
+        }
+    },
+    {
+        "hesapismi": "msgkordi4",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 26640,
+                "kordiY": 23539
+            },
+            "yakamoz": {
+                "kordiX": -25109,
+                "kordiY": -13151
+            },
+            "avrasya": {
+                "kordiX": 26000,
+                "kordiY": -23598
+            },
+            "pruva": {
+                "kordiX": 1448,
+                "kordiY": -21452
+            },
+            "velena": {
+                "kordiX": 25000,
+                "kordiY": 5033
+            },
+            "flador": {
+                "kordiX": -18530,
+                "kordiY": -19023
+            },
+            "astra": {
+                "kordiX": 24424,
+                "kordiY": 25434
+            }
+        }
+    },
+    {
+        "hesapismi": "msgkordi5",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 11618,
+                "kordiY": 26851
+            },
+            "yakamoz": {
+                "kordiX": 14200,
+                "kordiY": -23167
+            },
+            "avrasya": {
+                "kordiX": 21000,
+                "kordiY": -12460
+            },
+            "pruva": {
+                "kordiX": 24600,
+                "kordiY": 24500
+            },
+            "velena": {
+                "kordiX": 17000,
+                "kordiY": -17800
+            },
+            "flador": {
+                "kordiX": 21000,
+                "kordiY": 22400
+            },
+            "astra": {
+                "kordiX": -7200,
+                "kordiY": 784
+            }
+        }
+    },
+    {
+        "hesapismi": "msgkordi6",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -13100,
+                "kordiY": -9700
+            },
+            "yakamoz": {
+                "kordiX": -9900,
+                "kordiY": 16200
+            },
+            "avrasya": {
+                "kordiX": -25900,
+                "kordiY": -18350
+            },
+            "pruva": {
+                "kordiX": -4785,
+                "kordiY": 14520
+            },
+            "velena": {
+                "kordiX": 16650,
+                "kordiY": -20625
+            },
+            "flador": {
+                "kordiX": -263,
+                "kordiY": -18439
+            },
+            "astra": {
+                "kordiX": 12275,
+                "kordiY": 14600
+            }
+        }
+    },
+    {
+        "hesapismi": "msgkordi7",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -2000,
+                "kordiY": 25900
+            },
+            "yakamoz": {
+                "kordiX": -15100,
+                "kordiY": 20500
+            },
+            "avrasya": {
+                "kordiX": -9950,
+                "kordiY": -5790
+            },
+            "pruva": {
+                "kordiX": -18723,
+                "kordiY": -14522
+            },
+            "velena": {
+                "kordiX": 13100,
+                "kordiY": -22400
+            },
+            "flador": {
+                "kordiX": -15905,
+                "kordiY": -8973
+            },
+            "astra": {
+                "kordiX": 10330,
+                "kordiY": -12753
+            }
+        }
+    },
+    {
+        "hesapismi": "msgkordi8",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -9300,
+                "kordiY": -5500
+            },
+            "yakamoz": {
+                "kordiX": -12700,
+                "kordiY": -12700
+            },
+            "avrasya": {
+                "kordiX": 14500,
+                "kordiY": -2800
+            },
+            "pruva": {
+                "kordiX": -18000,
+                "kordiY": -4000
+            },
+            "velena": {
+                "kordiX": -12300,
+                "kordiY": -24000
+            },
+            "flador": {
+                "kordiX": 16000,
+                "kordiY": -22300
+            },
+            "astra": {
+                "kordiX": 23000,
+                "kordiY": 12250
+            }
+        }
+    },
+    {
+        "hesapismi": "msgkordi9",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 21853,
+                "kordiY": 27500
+            },
+            "yakamoz": {
+                "kordiX": -22700,
+                "kordiY": -1441
+            },
+            "avrasya": {
+                "kordiX": 12445,
+                "kordiY": 16800
+            },
+            "pruva": {
+                "kordiX": -10000,
+                "kordiY": 445
+            },
+            "velena": {
+                "kordiX": 12000,
+                "kordiY": 7500
+            },
+            "flador": {
+                "kordiX": 4885,
+                "kordiY": -15400
+            },
+            "astra": {
+                "kordiX": -3550,
+                "kordiY": 24361
+            }
+        }
+    },
+    {
+        "hesapismi": "msgkordi10",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -22500,
+                "kordiY": 21100
+            },
+            "yakamoz": {
+                "kordiX": 11600,
+                "kordiY": 12750
+            },
+            "avrasya": {
+                "kordiX": 21640,
+                "kordiY": -21500
+            },
+            "pruva": {
+                "kordiX": 7900,
+                "kordiY": -6755
+            },
+            "velena": {
+                "kordiX": -9348,
+                "kordiY": 21934
+            },
+            "flador": {
+                "kordiX": 15100,
+                "kordiY": -24850
+            },
+            "astra": {
+                "kordiX": -27743,
+                "kordiY": 7077
+            }
+        }
+    },
+    {
+        "hesapismi": "msgkordi11",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -17444,
+                "kordiY": 7665
+            },
+            "yakamoz": {
+                "kordiX": -25735,
+                "kordiY": -20152
+            },
+            "avrasya": {
+                "kordiX": 9700,
+                "kordiY": 26744
+            },
+            "pruva": {
+                "kordiX": -5736,
+                "kordiY": 13781
+            },
+            "velena": {
+                "kordiX": -10500,
+                "kordiY": -17000
+            },
+            "flador": {
+                "kordiX": -24000,
+                "kordiY": -28000
+            },
+            "astra": {
+                "kordiX": -10185,
+                "kordiY": -14212
+            }
+        }
+    },
+    {
+        "hesapismi": "msgkordi12",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -21100,
+                "kordiY": -16663
+            },
+            "yakamoz": {
+                "kordiX": 17113,
+                "kordiY": -11253
+            },
+            "avrasya": {
+                "kordiX": -25545,
+                "kordiY": -15150
+            },
+            "pruva": {
+                "kordiX": 14486,
+                "kordiY": -15487
+            },
+            "velena": {
+                "kordiX": 20350,
+                "kordiY": 14443
+            },
+            "flador": {
+                "kordiX": 26827,
+                "kordiY": -10443
+            },
+            "astra": {
+                "kordiX": -19950,
+                "kordiY": -13201
+            }
+        }
+    },
+    {
+        "hesapismi": "msgkordi13",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -11378,
+                "kordiY": -10600
+            },
+            "yakamoz": {
+                "kordiX": 11750,
+                "kordiY": 7500
+            },
+            "avrasya": {
+                "kordiX": 21836,
+                "kordiY": 23110
+            },
+            "pruva": {
+                "kordiX": 23605,
+                "kordiY": -14631
+            },
+            "velena": {
+                "kordiX": 2990,
+                "kordiY": 9305
+            },
+            "flador": {
+                "kordiX": 1575,
+                "kordiY": 17225
+            },
+            "astra": {
+                "kordiX": 5450,
+                "kordiY": 12445
+            }
+        }
+    },
+    {
+        "hesapismi": "msgkordi14",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 27827,
+                "kordiY": 20450
+            },
+            "yakamoz": {
+                "kordiX": 833,
+                "kordiY": 6981
+            },
+            "avrasya": {
+                "kordiX": 27431,
+                "kordiY": 20088
+            },
+            "pruva": {
+                "kordiX": 22155,
+                "kordiY": -4789
+            },
+            "velena": {
+                "kordiX": 24115,
+                "kordiY": 27000
+            },
+            "flador": {
+                "kordiX": 15117,
+                "kordiY": 5700
+            },
+            "astra": {
+                "kordiX": -763,
+                "kordiY": -23400
+            }
+        }
+    },
+    {
+        "hesapismi": "msgkordi15",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 16245,
+                "kordiY": -18600
+            },
+            "yakamoz": {
+                "kordiX": -19600,
+                "kordiY": -19322
+            },
+            "avrasya": {
+                "kordiX": 8800,
+                "kordiY": -13400
+            },
+            "pruva": {
+                "kordiX": 19650,
+                "kordiY": 19660
+            },
+            "velena": {
+                "kordiX": 500,
+                "kordiY": 15013
+            },
+            "flador": {
+                "kordiX": 23300,
+                "kordiY": 24424
+            },
+            "astra": {
+                "kordiX": -17635,
+                "kordiY": 24100
+            }
+        }
+    },
+    {
+        "hesapismi": "msgkordi16",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 17450,
+                "kordiY": -20700
+            },
+            "yakamoz": {
+                "kordiX": -3780,
+                "kordiY": -26768
+            },
+            "avrasya": {
+                "kordiX": 10811,
+                "kordiY": -1065
+            },
+            "pruva": {
+                "kordiX": 5150,
+                "kordiY": -10000
+            },
+            "velena": {
+                "kordiX": -7300,
+                "kordiY": 2753
+            },
+            "flador": {
+                "kordiX": -4000,
+                "kordiY": 8550
+            },
+            "astra": {
+                "kordiX": 5235,
+                "kordiY": -25700
+            }
+        }
+    },
+    {
+        "hesapismi": "msgkordi17",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 600,
+                "kordiY": 16000
+            },
+            "yakamoz": {
+                "kordiX": -13700,
+                "kordiY": -20100
+            },
+            "avrasya": {
+                "kordiX": 17839,
+                "kordiY": -7711
+            },
+            "pruva": {
+                "kordiX": -1350,
+                "kordiY": 24340
+            },
+            "velena": {
+                "kordiX": 3501,
+                "kordiY": 2259
+            },
+            "flador": {
+                "kordiX": 3470,
+                "kordiY": 16700
+            },
+            "astra": {
+                "kordiX": 8150,
+                "kordiY": -17700
+            }
+        }
+    },
+    {
+        "hesapismi": "msgkordi18",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -1120,
+                "kordiY": 12750
+            },
+            "yakamoz": {
+                "kordiX": 12450,
+                "kordiY": -12100
+            },
+            "avrasya": {
+                "kordiX": -10500,
+                "kordiY": -8400
+            },
+            "pruva": {
+                "kordiX": -19050,
+                "kordiY": -11660
+            },
+            "velena": {
+                "kordiX": -9655,
+                "kordiY": 2245
+            },
+            "flador": {
+                "kordiX": -2237,
+                "kordiY": 21670
+            },
+            "astra": {
+                "kordiX": 4400,
+                "kordiY": -25300
+            }
+        }
+    },
+    {
+        "hesapismi": "msgkordi19",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 5050,
+                "kordiY": 23400
+            },
+            "yakamoz": {
+                "kordiX": -25900,
+                "kordiY": 15900
+            },
+            "avrasya": {
+                "kordiX": -15450,
+                "kordiY": -22700
+            },
+            "pruva": {
+                "kordiX": 10850,
+                "kordiY": -2600
+            },
+            "velena": {
+                "kordiX": 15100,
+                "kordiY": -16700
+            },
+            "flador": {
+                "kordiX": -13800,
+                "kordiY": -5100
+            },
+            "astra": {
+                "kordiX": -22750,
+                "kordiY": -13400
+            }
+        }
+    },
+    {
+        "hesapismi": "msgkordi20",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -7400,
+                "kordiY": -4000
+            },
+            "yakamoz": {
+                "kordiX": 7200,
+                "kordiY": 7200
+            },
+            "avrasya": {
+                "kordiX": 14750,
+                "kordiY": -17350
+            },
+            "pruva": {
+                "kordiX": -24450,
+                "kordiY": -23350
+            },
+            "velena": {
+                "kordiX": -20882,
+                "kordiY": -26500
+            },
+            "flador": {
+                "kordiX": 431,
+                "kordiY": 783
+            },
+            "astra": {
+                "kordiX": 9780,
+                "kordiY": 11750
+            }
+        }
+    },
+    {
+        "hesapismi": "msgkordi21",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -12450,
+                "kordiY": -12100
+            },
+            "yakamoz": {
+                "kordiX": 7650,
+                "kordiY": -12400
+            },
+            "avrasya": {
+                "kordiX": -26225,
+                "kordiY": 3500
+            },
+            "pruva": {
+                "kordiX": 1800,
+                "kordiY": 4400
+            },
+            "velena": {
+                "kordiX": -9600,
+                "kordiY": -6700
+            },
+            "flador": {
+                "kordiX": -26850,
+                "kordiY": 6600
+            },
+            "astra": {
+                "kordiX": 6500,
+                "kordiY": 10250
+            }
+        }
+    },
+    {
+        "hesapismi": "msgkordi22",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -15830,
+                "kordiY": 2650
+            },
+            "yakamoz": {
+                "kordiX": -7300,
+                "kordiY": 20700
+            },
+            "avrasya": {
+                "kordiX": -9500,
+                "kordiY": 6200
+            },
+            "pruva": {
+                "kordiX": 2000,
+                "kordiY": 8200
+            },
+            "velena": {
+                "kordiX": 12000,
+                "kordiY": -3700
+            },
+            "flador": {
+                "kordiX": 13700,
+                "kordiY": 19700
+            },
+            "astra": {
+                "kordiX": -9200,
+                "kordiY": -23000
+            }
+        }
+    },
+    {
+        "hesapismi": "msgkordi23",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -2300,
+                "kordiY": -23300
+            },
+            "yakamoz": {
+                "kordiX": 10800,
+                "kordiY": 19100
+            },
+            "avrasya": {
+                "kordiX": -25600,
+                "kordiY": -22300
+            },
+            "pruva": {
+                "kordiX": -22700,
+                "kordiY": -4000
+            },
+            "velena": {
+                "kordiX": -2500,
+                "kordiY": 24000
+            },
+            "flador": {
+                "kordiX": 2000,
+                "kordiY": -26900
+            },
+            "astra": {
+                "kordiX": 23160,
+                "kordiY": -11900
+            }
+        }
+    },
+    {
+        "hesapismi": "msgkordi24",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -26600,
+                "kordiY": 5400
+            },
+            "yakamoz": {
+                "kordiX": -13000,
+                "kordiY": -3400
+            },
+            "avrasya": {
+                "kordiX": -4500,
+                "kordiY": 21300
+            },
+            "pruva": {
+                "kordiX": 22500,
+                "kordiY": 13750
+            },
+            "velena": {
+                "kordiX": 25000,
+                "kordiY": 20600
+            },
+            "flador": {
+                "kordiX": -13700,
+                "kordiY": -1900
+            },
+            "astra": {
+                "kordiX": -3900,
+                "kordiY": -6700
+            }
+        }
+    },
+    {
+        "hesapismi": "msgkordi25",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -7100,
+                "kordiY": -4000
+            },
+            "yakamoz": {
+                "kordiX": -22500,
+                "kordiY": 14800
+            },
+            "avrasya": {
+                "kordiX": -9450,
+                "kordiY": -12200
+            },
+            "pruva": {
+                "kordiX": -24350,
+                "kordiY": -26000
+            },
+            "velena": {
+                "kordiX": -16600,
+                "kordiY": -13340
+            },
+            "flador": {
+                "kordiX": -3100,
+                "kordiY": 13300
+            },
+            "astra": {
+                "kordiX": 26900,
+                "kordiY": 23000
+            }
+        }
+    },
+    {
+        "hesapismi": "msgkordi26",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -24200,
+                "kordiY": -16500
+            },
+            "yakamoz": {
+                "kordiX": 12200,
+                "kordiY": -4500
+            },
+            "avrasya": {
+                "kordiX": 1800,
+                "kordiY": 11250
+            },
+            "pruva": {
+                "kordiX": 26150,
+                "kordiY": 6300
+            },
+            "velena": {
+                "kordiX": -23100,
+                "kordiY": -23100
+            },
+            "flador": {
+                "kordiX": 3000,
+                "kordiY": -19200
+            },
+            "astra": {
+                "kordiX": -13500,
+                "kordiY": 5000
+            }
+        }
+    },
+    {
+        "hesapismi": "msgkordi27",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 17150,
+                "kordiY": -8500
+            },
+            "yakamoz": {
+                "kordiX": -24500,
+                "kordiY": 24350
+            },
+            "avrasya": {
+                "kordiX": 4800,
+                "kordiY": -12500
+            },
+            "pruva": {
+                "kordiX": 23700,
+                "kordiY": 23900
+            },
+            "velena": {
+                "kordiX": 22700,
+                "kordiY": -17000
+            },
+            "flador": {
+                "kordiX": -13500,
+                "kordiY": -14400
+            },
+            "astra": {
+                "kordiX": -26300,
+                "kordiY": 20600
+            }
+        }
+    },
+    {
+        "hesapismi": "msgkordi28",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 5000,
+                "kordiY": 12300
+            },
+            "yakamoz": {
+                "kordiX": 3500,
+                "kordiY": 12200
+            },
+            "avrasya": {
+                "kordiX": -10800,
+                "kordiY": 12700
+            },
+            "pruva": {
+                "kordiX": -7050,
+                "kordiY": -1700
+            },
+            "velena": {
+                "kordiX": -16900,
+                "kordiY": -26300
+            },
+            "flador": {
+                "kordiX": -6400,
+                "kordiY": -12900
+            },
+            "astra": {
+                "kordiX": 20600,
+                "kordiY": 24500
+            }
+        }
+    },
+    {
+        "hesapismi": "msgkordi29",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 15200,
+                "kordiY": 8250
+            },
+            "yakamoz": {
+                "kordiX": -6160,
+                "kordiY": -8111
+            },
+            "avrasya": {
+                "kordiX": -7700,
+                "kordiY": 700
+            },
+            "pruva": {
+                "kordiX": 19200,
+                "kordiY": -25550
+            },
+            "velena": {
+                "kordiX": -6300,
+                "kordiY": 25000
+            },
+            "flador": {
+                "kordiX": -18000,
+                "kordiY": 3850
+            },
+            "astra": {
+                "kordiX": 29300,
+                "kordiY": 24400
+            }
+        }
+    },
+    {
+        "hesapismi": "msgkordi30",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -2157,
+                "kordiY": -280
+            },
+            "yakamoz": {
+                "kordiX": 1975,
+                "kordiY": 17596
+            },
+            "avrasya": {
+                "kordiX": 18009,
+                "kordiY": 25440
+            },
+            "pruva": {
+                "kordiX": 8644,
+                "kordiY": 23989
+            },
+            "velena": {
+                "kordiX": -15209,
+                "kordiY": -14353
+            },
+            "flador": {
+                "kordiX": -2363,
+                "kordiY": 24536
+            },
+            "astra": {
+                "kordiX": 6343,
+                "kordiY": 27273
+            }
+        }
+    },
+    {
+        "hesapismi": "msgkordi31",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -12564,
+                "kordiY": -15170
+            },
+            "yakamoz": {
+                "kordiX": -23937,
+                "kordiY": -4466
+            },
+            "avrasya": {
+                "kordiX": -6455,
+                "kordiY": 17263
+            },
+            "pruva": {
+                "kordiX": -11387,
+                "kordiY": 3811
+            },
+            "velena": {
+                "kordiX": 21056,
+                "kordiY": 27206
+            },
+            "flador": {
+                "kordiX": -4191,
+                "kordiY": -12143
+            },
+            "astra": {
+                "kordiX": 12280,
+                "kordiY": 23934
+            }
+        }
+    },
+    {
+        "hesapismi": "msgkordi32",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -12438,
+                "kordiY": -10256
+            },
+            "yakamoz": {
+                "kordiX": 11609,
+                "kordiY": -13398
+            },
+            "avrasya": {
+                "kordiX": 25417,
+                "kordiY": -19656
+            },
+            "pruva": {
+                "kordiX": 3811,
+                "kordiY": 22052
+            },
+            "velena": {
+                "kordiX": -20191,
+                "kordiY": 24309
+            },
+            "flador": {
+                "kordiX": 14135,
+                "kordiY": -3791
+            },
+            "astra": {
+                "kordiX": 14069,
+                "kordiY": 23600
+            }
+        }
+    },
+    {
+        "hesapismi": "msgkordi33",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -13834,
+                "kordiY": -19380
+            },
+            "yakamoz": {
+                "kordiX": 2402,
+                "kordiY": -1880
+            },
+            "avrasya": {
+                "kordiX": 24513,
+                "kordiY": -9675
+            },
+            "pruva": {
+                "kordiX": 4099,
+                "kordiY": -21765
+            },
+            "velena": {
+                "kordiX": -8207,
+                "kordiY": 3537
+            },
+            "flador": {
+                "kordiX": -2680,
+                "kordiY": 14136
+            },
+            "astra": {
+                "kordiX": 14241,
+                "kordiY": 14633
+            }
+        }
+    },
+    {
+        "hesapismi": "msgkordi34",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 25729,
+                "kordiY": 16494
+            },
+            "yakamoz": {
+                "kordiX": -19609,
+                "kordiY": 10879
+            },
+            "avrasya": {
+                "kordiX": -12676,
+                "kordiY": 1140
+            },
+            "pruva": {
+                "kordiX": 15828,
+                "kordiY": -24249
+            },
+            "velena": {
+                "kordiX": -15858,
+                "kordiY": 16897
+            },
+            "flador": {
+                "kordiX": -25561,
+                "kordiY": 301
+            },
+            "astra": {
+                "kordiX": -22979,
+                "kordiY": -40
+            }
+        }
+    },
+    {
+        "hesapismi": "msgkordi35",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 13976,
+                "kordiY": 790
+            },
+            "yakamoz": {
+                "kordiX": 13149,
+                "kordiY": -22437
+            },
+            "avrasya": {
+                "kordiX": -25525,
+                "kordiY": 16894
+            },
+            "pruva": {
+                "kordiX": 5332,
+                "kordiY": -22183
+            },
+            "velena": {
+                "kordiX": -12517,
+                "kordiY": 7440
+            },
+            "flador": {
+                "kordiX": -10896,
+                "kordiY": 17494
+            },
+            "astra": {
+                "kordiX": 26205,
+                "kordiY": 23546
+            }
+        }
+    },
+    {
+        "hesapismi": "msgkordi36",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 6087,
+                "kordiY": -8131
+            },
+            "yakamoz": {
+                "kordiX": 15855,
+                "kordiY": 15855
+            },
+            "avrasya": {
+                "kordiX": -376,
+                "kordiY": 14196
+            },
+            "pruva": {
+                "kordiX": 17170,
+                "kordiY": 23172
+            },
+            "velena": {
+                "kordiX": -20465,
+                "kordiY": -14685
+            },
+            "flador": {
+                "kordiX": -15991,
+                "kordiY": 10052
+            },
+            "astra": {
+                "kordiX": 394,
+                "kordiY": 7754
+            }
+        }
+    },
+    {
+        "hesapismi": "msgkordi37",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 22415,
+                "kordiY": 14976
+            },
+            "yakamoz": {
+                "kordiX": 22056,
+                "kordiY": -47
+            },
+            "avrasya": {
+                "kordiX": 22375,
+                "kordiY": 2969
+            },
+            "pruva": {
+                "kordiX": 26665,
+                "kordiY": 7682
+            },
+            "velena": {
+                "kordiX": -133,
+                "kordiY": -16693
+            },
+            "flador": {
+                "kordiX": -5111,
+                "kordiY": 3042
+            },
+            "astra": {
+                "kordiX": 18516,
+                "kordiY": 14931
+            }
+        }
+    },
+    {
+        "hesapismi": "msgkordi38",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 13446,
+                "kordiY": -25706
+            },
+            "yakamoz": {
+                "kordiX": 26556,
+                "kordiY": 16103
+            },
+            "avrasya": {
+                "kordiX": 6940,
+                "kordiY": 11256
+            },
+            "pruva": {
+                "kordiX": 8484,
+                "kordiY": 18245
+            },
+            "velena": {
+                "kordiX": 7657,
+                "kordiY": -7748
+            },
+            "flador": {
+                "kordiX": 25926,
+                "kordiY": 1205
+            },
+            "astra": {
+                "kordiX": 15891,
+                "kordiY": 24859
+            }
+        }
+    },
+    {
+        "hesapismi": "msgkordi39",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -15453,
+                "kordiY": 7100
+            },
+            "yakamoz": {
+                "kordiX": -27227,
+                "kordiY": -2800
+            },
+            "avrasya": {
+                "kordiX": -13222,
+                "kordiY": -9930
+            },
+            "pruva": {
+                "kordiX": 7826,
+                "kordiY": 7422
+            },
+            "velena": {
+                "kordiX": 6473,
+                "kordiY": 7146
+            },
+            "flador": {
+                "kordiX": 27612,
+                "kordiY": -5734
+            },
+            "astra": {
+                "kordiX": 15547,
+                "kordiY": -21872
+            }
+        }
+    },
+    {
+        "hesapismi": "msgkordi40",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -10878,
+                "kordiY": -11146
+            },
+            "yakamoz": {
+                "kordiX": -4644,
+                "kordiY": -8744
+            },
+            "avrasya": {
+                "kordiX": 11654,
+                "kordiY": -5781
+            },
+            "pruva": {
+                "kordiX": 3834,
+                "kordiY": 5609
+            },
+            "velena": {
+                "kordiX": -26862,
+                "kordiY": -4551
+            },
+            "flador": {
+                "kordiX": -17682,
+                "kordiY": 10721
+            },
+            "astra": {
+                "kordiX": 17466,
+                "kordiY": 25847
+            }
+        }
+    },
+    {
+        "hesapismi": "msgkordi41",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 13727,
+                "kordiY": 20470
+            },
+            "yakamoz": {
+                "kordiX": -27851,
+                "kordiY": -6795
+            },
+            "avrasya": {
+                "kordiX": 27705,
+                "kordiY": 22871
+            },
+            "pruva": {
+                "kordiX": -14636,
+                "kordiY": 9648
+            },
+            "velena": {
+                "kordiX": 6554,
+                "kordiY": 1701
+            },
+            "flador": {
+                "kordiX": 11898,
+                "kordiY": -6593
+            },
+            "astra": {
+                "kordiX": 19207,
+                "kordiY": -20179
+            }
+        }
+    },
+    {
+        "hesapismi": "msgkordi42",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -20186,
+                "kordiY": 9066
+            },
+            "yakamoz": {
+                "kordiX": 203,
+                "kordiY": -8119
+            },
+            "avrasya": {
+                "kordiX": 1483,
+                "kordiY": -700
+            },
+            "pruva": {
+                "kordiX": -15726,
+                "kordiY": 1192
+            },
+            "velena": {
+                "kordiX": 6097,
+                "kordiY": 17810
+            },
+            "flador": {
+                "kordiX": 19865,
+                "kordiY": -1100
+            },
+            "astra": {
+                "kordiX": 3925,
+                "kordiY": -25300
+            }
+        }
+    },
+    {
+        "hesapismi": "msgkordi43",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -19635,
+                "kordiY": -22840
+            },
+            "yakamoz": {
+                "kordiX": -6946,
+                "kordiY": 27219
+            },
+            "avrasya": {
+                "kordiX": -14534,
+                "kordiY": 27598
+            },
+            "pruva": {
+                "kordiX": -8650,
+                "kordiY": -8650
+            },
+            "velena": {
+                "kordiX": 24361,
+                "kordiY": -16172
+            },
+            "flador": {
+                "kordiX": 1298,
+                "kordiY": 24000
+            },
+            "astra": {
+                "kordiX": -10194,
+                "kordiY": -7317
+            }
+        }
+    },
+    {
+        "hesapismi": "msgkordi44",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -3202,
+                "kordiY": 21980
+            },
+            "yakamoz": {
+                "kordiX": 26314,
+                "kordiY": 23572
+            },
+            "avrasya": {
+                "kordiX": 1422,
+                "kordiY": 11010
+            },
+            "pruva": {
+                "kordiX": 21093,
+                "kordiY": -21198
+            },
+            "velena": {
+                "kordiX": -26963,
+                "kordiY": -4407
+            },
+            "flador": {
+                "kordiX": 8039,
+                "kordiY": 18515
+            },
+            "astra": {
+                "kordiX": 13207,
+                "kordiY": -25254
+            }
+        }
+    },
+    {
+        "hesapismi": "msgkordi45",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 1500,
+                "kordiY": -16700
+            },
+            "yakamoz": {
+                "kordiX": -11300,
+                "kordiY": -7600
+            },
+            "avrasya": {
+                "kordiX": 16000,
+                "kordiY": 23300
+            },
+            "pruva": {
+                "kordiX": 9600,
+                "kordiY": 8000
+            },
+            "velena": {
+                "kordiX": -25200,
+                "kordiY": 1500
+            },
+            "flador": {
+                "kordiX": 23500,
+                "kordiY": -11000
+            },
+            "astra": {
+                "kordiX": -11700,
+                "kordiY": 13300
+            }
+        }
+    },
+    {
+        "hesapismi": "msgkordi46",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 8300,
+                "kordiY": -13600
+            },
+            "yakamoz": {
+                "kordiX": 27500,
+                "kordiY": 9500
+            },
+            "avrasya": {
+                "kordiX": 21400,
+                "kordiY": 22300
+            },
+            "pruva": {
+                "kordiX": 15100,
+                "kordiY": 6300
+            },
+            "velena": {
+                "kordiX": 2900,
+                "kordiY": 8000
+            },
+            "flador": {
+                "kordiX": -18900,
+                "kordiY": -16400
+            },
+            "astra": {
+                "kordiX": 11600,
+                "kordiY": -17800
+            }
+        }
+    },
+    {
+        "hesapismi": "msgkordi47",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 19300,
+                "kordiY": 6500
+            },
+            "yakamoz": {
+                "kordiX": 1700,
+                "kordiY": 4900
+            },
+            "avrasya": {
+                "kordiX": 7800,
+                "kordiY": -2200
+            },
+            "pruva": {
+                "kordiX": 25300,
+                "kordiY": 23700
+            },
+            "velena": {
+                "kordiX": -6800,
+                "kordiY": -12300
+            },
+            "flador": {
+                "kordiX": 21500,
+                "kordiY": 6600
+            },
+            "astra": {
+                "kordiX": 24500,
+                "kordiY": -1700
+            }
+        }
+    },
+    {
+        "hesapismi": "msgkordi48",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 27000,
+                "kordiY": -14400
+            },
+            "yakamoz": {
+                "kordiX": -22000,
+                "kordiY": 1200
+            },
+            "avrasya": {
+                "kordiX": 1200,
+                "kordiY": -20000
+            },
+            "pruva": {
+                "kordiX": -22500,
+                "kordiY": -10600
+            },
+            "velena": {
+                "kordiX": -9000,
+                "kordiY": 16900
+            },
+            "flador": {
+                "kordiX": -7800,
+                "kordiY": 9500
+            },
+            "astra": {
+                "kordiX": -15000,
+                "kordiY": -12100
+            }
+        }
+    },
+    {
+        "hesapismi": "msgkordi49",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -25700,
+                "kordiY": -15300
+            },
+            "yakamoz": {
+                "kordiX": -22500,
+                "kordiY": 10400
+            },
+            "avrasya": {
+                "kordiX": 15600,
+                "kordiY": 7200
+            },
+            "pruva": {
+                "kordiX": 23650,
+                "kordiY": 18400
+            },
+            "velena": {
+                "kordiX": 15200,
+                "kordiY": -8800
+            },
+            "flador": {
+                "kordiX": -11500,
+                "kordiY": -9600
+            },
+            "astra": {
+                "kordiX": -2400,
+                "kordiY": -5500
+            }
+        }
+    },
+    {
+        "hesapismi": "msgkordi99",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 10300,
+                "kordiY": 16000
+            },
+            "yakamoz": {
+                "kordiX": 12200,
+                "kordiY": -5400
+            },
+            "avrasya": {
+                "kordiX": -25700,
+                "kordiY": 2800
+            },
+            "pruva": {
+                "kordiX": 25900,
+                "kordiY": -20500
+            },
+            "velena": {
+                "kordiX": 8800,
+                "kordiY": 17300
+            },
+            "flador": {
+                "kordiX": -6300,
+                "kordiY": 11200
+            },
+            "astra": {
+                "kordiX": -24300,
+                "kordiY": 7000
+            }
+        }
+    },
+    {
+        "hesapismi": "msgkordi98",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -3500,
+                "kordiY": -16000
+            },
+            "yakamoz": {
+                "kordiX": 20000,
+                "kordiY": 7400
+            },
+            "avrasya": {
+                "kordiX": 3500,
+                "kordiY": -18450
+            },
+            "pruva": {
+                "kordiX": 19800,
+                "kordiY": 12900
+            },
+            "velena": {
+                "kordiX": 28000,
+                "kordiY": -20100
+            },
+            "flador": {
+                "kordiX": -19600,
+                "kordiY": 20700
+            },
+            "astra": {
+                "kordiX": 6800,
+                "kordiY": 25500
+            }
+        }
+    },
+    {
+        "hesapismi": "msgkordi97",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -19800,
+                "kordiY": -21600
+            },
+            "yakamoz": {
+                "kordiX": 18700,
+                "kordiY": 12500
+            },
+            "avrasya": {
+                "kordiX": 3500,
+                "kordiY": -21600
+            },
+            "pruva": {
+                "kordiX": -700,
+                "kordiY": 24800
+            },
+            "velena": {
+                "kordiX": 21000,
+                "kordiY": 14100
+            },
+            "flador": {
+                "kordiX": 12700,
+                "kordiY": -8000
+            },
+            "astra": {
+                "kordiX": -20000,
+                "kordiY": 17800
+            }
+        }
+    },
+    {
+        "hesapismi": "msgkordi96",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 11800,
+                "kordiY": -2800
+            },
+            "yakamoz": {
+                "kordiX": -12150,
+                "kordiY": 3800
+            },
+            "avrasya": {
+                "kordiX": -21700,
+                "kordiY": -3200
+            },
+            "pruva": {
+                "kordiX": 0,
+                "kordiY": -6800
+            },
+            "velena": {
+                "kordiX": -23800,
+                "kordiY": -16150
+            },
+            "flador": {
+                "kordiX": -15500,
+                "kordiY": -1900
+            },
+            "astra": {
+                "kordiX": -20500,
+                "kordiY": 9500
+            }
+        }
+    },
+    {
+        "hesapismi": "msgkordi95",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 19454,
+                "kordiY": 11524
+            },
+            "yakamoz": {
+                "kordiX": 2933,
+                "kordiY": -4656
+            },
+            "avrasya": {
+                "kordiX": 3731,
+                "kordiY": -3075
+            },
+            "pruva": {
+                "kordiX": -16413,
+                "kordiY": -17052
+            },
+            "velena": {
+                "kordiX": 12365,
+                "kordiY": -26172
+            },
+            "flador": {
+                "kordiX": 3017,
+                "kordiY": 15747
+            },
+            "astra": {
+                "kordiX": 9970,
+                "kordiY": 20353
+            }
+        }
+    },
+    {
+        "hesapismi": "msgkordi94",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 27066,
+                "kordiY": -15021
+            },
+            "yakamoz": {
+                "kordiX": 4092,
+                "kordiY": 19705
+            },
+            "avrasya": {
+                "kordiX": 11380,
+                "kordiY": -22961
+            },
+            "pruva": {
+                "kordiX": 18720,
+                "kordiY": -21846
+            },
+            "velena": {
+                "kordiX": -18243,
+                "kordiY": 9945
+            },
+            "flador": {
+                "kordiX": -14776,
+                "kordiY": -923
+            },
+            "astra": {
+                "kordiX": 12428,
+                "kordiY": -1920
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi2",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -8500,
+                "kordiY": 25900
+            },
+            "yakamoz": {
+                "kordiX": -11750,
+                "kordiY": 17000
+            },
+            "avrasya": {
+                "kordiX": -9670,
+                "kordiY": 14877
+            },
+            "pruva": {
+                "kordiX": -11750,
+                "kordiY": 27550
+            },
+            "velena": {
+                "kordiX": -1250,
+                "kordiY": -26000
+            },
+            "flador": {
+                "kordiX": 27000,
+                "kordiY": 7452
+            },
+            "astra": {
+                "kordiX": -20200,
+                "kordiY": -15900
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi3",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 13400,
+                "kordiY": -11400
+            },
+            "yakamoz": {
+                "kordiX": 24800,
+                "kordiY": 8700
+            },
+            "avrasya": {
+                "kordiX": 13100,
+                "kordiY": -24100
+            },
+            "pruva": {
+                "kordiX": -15600,
+                "kordiY": 1700
+            },
+            "velena": {
+                "kordiX": -24900,
+                "kordiY": -23300
+            },
+            "flador": {
+                "kordiX": -5750,
+                "kordiY": -7400
+            },
+            "astra": {
+                "kordiX": -10650,
+                "kordiY": -16850
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi4",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -21300,
+                "kordiY": 4700
+            },
+            "yakamoz": {
+                "kordiX": -14300,
+                "kordiY": -8200
+            },
+            "avrasya": {
+                "kordiX": -6800,
+                "kordiY": 1472
+            },
+            "pruva": {
+                "kordiX": 25000,
+                "kordiY": -18450
+            },
+            "velena": {
+                "kordiX": 4700,
+                "kordiY": -14600
+            },
+            "flador": {
+                "kordiX": -10250,
+                "kordiY": 3900
+            },
+            "astra": {
+                "kordiX": -3400,
+                "kordiY": 23300
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi5",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 21600,
+                "kordiY": 25700
+            },
+            "yakamoz": {
+                "kordiX": 16000,
+                "kordiY": -23500
+            },
+            "avrasya": {
+                "kordiX": 9750,
+                "kordiY": 26000
+            },
+            "pruva": {
+                "kordiX": -15700,
+                "kordiY": 18100
+            },
+            "velena": {
+                "kordiX": 20000,
+                "kordiY": 6600
+            },
+            "flador": {
+                "kordiX": -20350,
+                "kordiY": -4050
+            },
+            "astra": {
+                "kordiX": -4046,
+                "kordiY": 27469
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi6",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 23450,
+                "kordiY": 13700
+            },
+            "yakamoz": {
+                "kordiX": -3600,
+                "kordiY": -124
+            },
+            "avrasya": {
+                "kordiX": -13400,
+                "kordiY": 19700
+            },
+            "pruva": {
+                "kordiX": -14200,
+                "kordiY": 24800
+            },
+            "velena": {
+                "kordiX": 8600,
+                "kordiY": -8200
+            },
+            "flador": {
+                "kordiX": 25100,
+                "kordiY": 18500
+            },
+            "astra": {
+                "kordiX": -23000,
+                "kordiY": -11444
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi7",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 1000,
+                "kordiY": 6120
+            },
+            "yakamoz": {
+                "kordiX": -3565,
+                "kordiY": 1776
+            },
+            "avrasya": {
+                "kordiX": 9100,
+                "kordiY": 20480
+            },
+            "pruva": {
+                "kordiX": 1200,
+                "kordiY": -25300
+            },
+            "velena": {
+                "kordiX": 22700,
+                "kordiY": -18900
+            },
+            "flador": {
+                "kordiX": 10550,
+                "kordiY": -27000
+            },
+            "astra": {
+                "kordiX": -16300,
+                "kordiY": -21800
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi8",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 12400,
+                "kordiY": -10300
+            },
+            "yakamoz": {
+                "kordiX": -19230,
+                "kordiY": 21270
+            },
+            "avrasya": {
+                "kordiX": 250,
+                "kordiY": 2900
+            },
+            "pruva": {
+                "kordiX": -15600,
+                "kordiY": -11100
+            },
+            "velena": {
+                "kordiX": -3850,
+                "kordiY": -25550
+            },
+            "flador": {
+                "kordiX": -11900,
+                "kordiY": 13680
+            },
+            "astra": {
+                "kordiX": 27350,
+                "kordiY": 14700
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi9",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 3885,
+                "kordiY": 25200
+            },
+            "yakamoz": {
+                "kordiX": -25400,
+                "kordiY": -25000
+            },
+            "avrasya": {
+                "kordiX": -25970,
+                "kordiY": -14500
+            },
+            "pruva": {
+                "kordiX": -23100,
+                "kordiY": -3800
+            },
+            "velena": {
+                "kordiX": 10500,
+                "kordiY": -4300
+            },
+            "flador": {
+                "kordiX": -17830,
+                "kordiY": 120
+            },
+            "astra": {
+                "kordiX": -10100,
+                "kordiY": -6337
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi10",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 22333,
+                "kordiY": -20600
+            },
+            "yakamoz": {
+                "kordiX": -14500,
+                "kordiY": -11500
+            },
+            "avrasya": {
+                "kordiX": 23350,
+                "kordiY": 24810
+            },
+            "pruva": {
+                "kordiX": 25800,
+                "kordiY": 9939
+            },
+            "velena": {
+                "kordiX": -10000,
+                "kordiY": -12000
+            },
+            "flador": {
+                "kordiX": 23250,
+                "kordiY": 25400
+            },
+            "astra": {
+                "kordiX": 15660,
+                "kordiY": 17000
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi11",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 11169,
+                "kordiY": 22411
+            },
+            "yakamoz": {
+                "kordiX": -25600,
+                "kordiY": 13950
+            },
+            "avrasya": {
+                "kordiX": -23457,
+                "kordiY": -537
+            },
+            "pruva": {
+                "kordiX": -19150,
+                "kordiY": -19280
+            },
+            "velena": {
+                "kordiX": -5330,
+                "kordiY": 17350
+            },
+            "flador": {
+                "kordiX": -25600,
+                "kordiY": 11266
+            },
+            "astra": {
+                "kordiX": -1550,
+                "kordiY": 22900
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi12",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -26770,
+                "kordiY": 9813
+            },
+            "yakamoz": {
+                "kordiX": -2955,
+                "kordiY": -7441
+            },
+            "avrasya": {
+                "kordiX": -27370,
+                "kordiY": -4812
+            },
+            "pruva": {
+                "kordiX": 3660,
+                "kordiY": -19172
+            },
+            "velena": {
+                "kordiX": -18750,
+                "kordiY": 1307
+            },
+            "flador": {
+                "kordiX": 6210,
+                "kordiY": -22570
+            },
+            "astra": {
+                "kordiX": 4570,
+                "kordiY": 10520
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi13",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -6900,
+                "kordiY": -27520
+            },
+            "yakamoz": {
+                "kordiX": 9050,
+                "kordiY": 17750
+            },
+            "avrasya": {
+                "kordiX": 3572,
+                "kordiY": -5700
+            },
+            "pruva": {
+                "kordiX": 23950,
+                "kordiY": 9730
+            },
+            "velena": {
+                "kordiX": 14128,
+                "kordiY": -23630
+            },
+            "flador": {
+                "kordiX": -18300,
+                "kordiY": -21720
+            },
+            "astra": {
+                "kordiX": -19640,
+                "kordiY": -6661
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi14",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -15200,
+                "kordiY": -8468
+            },
+            "yakamoz": {
+                "kordiX": 1560,
+                "kordiY": 18230
+            },
+            "avrasya": {
+                "kordiX": -23884,
+                "kordiY": -5587
+            },
+            "pruva": {
+                "kordiX": 18300,
+                "kordiY": -2950
+            },
+            "velena": {
+                "kordiX": -10650,
+                "kordiY": 8857
+            },
+            "flador": {
+                "kordiX": -13350,
+                "kordiY": 15000
+            },
+            "astra": {
+                "kordiX": -24390,
+                "kordiY": -7500
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi15",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 4050,
+                "kordiY": 17828
+            },
+            "yakamoz": {
+                "kordiX": 13867,
+                "kordiY": -14144
+            },
+            "avrasya": {
+                "kordiX": 24361,
+                "kordiY": -4472
+            },
+            "pruva": {
+                "kordiX": -22775,
+                "kordiY": 27901
+            },
+            "velena": {
+                "kordiX": 3700,
+                "kordiY": -3950
+            },
+            "flador": {
+                "kordiX": -11067,
+                "kordiY": 3482
+            },
+            "astra": {
+                "kordiX": -2464,
+                "kordiY": -12600
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi16",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -6050,
+                "kordiY": 16615
+            },
+            "yakamoz": {
+                "kordiX": 10935,
+                "kordiY": -5476
+            },
+            "avrasya": {
+                "kordiX": -26480,
+                "kordiY": -26100
+            },
+            "pruva": {
+                "kordiX": -18772,
+                "kordiY": 19550
+            },
+            "velena": {
+                "kordiX": 12990,
+                "kordiY": 6586
+            },
+            "flador": {
+                "kordiX": 4554,
+                "kordiY": 13136
+            },
+            "astra": {
+                "kordiX": -13120,
+                "kordiY": 23217
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi17",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -13544,
+                "kordiY": 5740
+            },
+            "yakamoz": {
+                "kordiX": 21404,
+                "kordiY": -5455
+            },
+            "avrasya": {
+                "kordiX": -23135,
+                "kordiY": -19841
+            },
+            "pruva": {
+                "kordiX": 2318,
+                "kordiY": 24274
+            },
+            "velena": {
+                "kordiX": 7250,
+                "kordiY": -9755
+            },
+            "flador": {
+                "kordiX": 2050,
+                "kordiY": 11880
+            },
+            "astra": {
+                "kordiX": -5329,
+                "kordiY": 21439
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi18",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -4216,
+                "kordiY": -11003
+            },
+            "yakamoz": {
+                "kordiX": 7700,
+                "kordiY": -660
+            },
+            "avrasya": {
+                "kordiX": 13000,
+                "kordiY": -11800
+            },
+            "pruva": {
+                "kordiX": 14400,
+                "kordiY": 17650
+            },
+            "velena": {
+                "kordiX": 6510,
+                "kordiY": -1030
+            },
+            "flador": {
+                "kordiX": 16150,
+                "kordiY": 20120
+            },
+            "astra": {
+                "kordiX": 20288,
+                "kordiY": 20670
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi19",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 8116,
+                "kordiY": -3446
+            },
+            "yakamoz": {
+                "kordiX": 19260,
+                "kordiY": 13540
+            },
+            "avrasya": {
+                "kordiX": 23650,
+                "kordiY": 5935
+            },
+            "pruva": {
+                "kordiX": 23000,
+                "kordiY": 15000
+            },
+            "velena": {
+                "kordiX": 27260,
+                "kordiY": 19500
+            },
+            "flador": {
+                "kordiX": 6650,
+                "kordiY": -14950
+            },
+            "astra": {
+                "kordiX": 11700,
+                "kordiY": 9800
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi20",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -26516,
+                "kordiY": -23016
+            },
+            "yakamoz": {
+                "kordiX": -24826,
+                "kordiY": 4948
+            },
+            "avrasya": {
+                "kordiX": 20150,
+                "kordiY": -21122
+            },
+            "pruva": {
+                "kordiX": -15530,
+                "kordiY": -13370
+            },
+            "velena": {
+                "kordiX": 15900,
+                "kordiY": -650
+            },
+            "flador": {
+                "kordiX": 27370,
+                "kordiY": 16110
+            },
+            "astra": {
+                "kordiX": -20877,
+                "kordiY": -18160
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi21",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 18600,
+                "kordiY": 19900
+            },
+            "yakamoz": {
+                "kordiX": -12800,
+                "kordiY": -750
+            },
+            "avrasya": {
+                "kordiX": -17063,
+                "kordiY": 24149
+            },
+            "pruva": {
+                "kordiX": 13615,
+                "kordiY": 13779
+            },
+            "velena": {
+                "kordiX": 7614,
+                "kordiY": -4114
+            },
+            "flador": {
+                "kordiX": -4017,
+                "kordiY": 4484
+            },
+            "astra": {
+                "kordiX": -3222,
+                "kordiY": -21773
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi22",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 8696,
+                "kordiY": -3713
+            },
+            "yakamoz": {
+                "kordiX": -1823,
+                "kordiY": -9828
+            },
+            "avrasya": {
+                "kordiX": 14624,
+                "kordiY": 11353
+            },
+            "pruva": {
+                "kordiX": 11499,
+                "kordiY": 18235
+            },
+            "velena": {
+                "kordiX": 9056,
+                "kordiY": -6881
+            },
+            "flador": {
+                "kordiX": -25082,
+                "kordiY": 16356
+            },
+            "astra": {
+                "kordiX": 22153,
+                "kordiY": -11438
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi23",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -3821,
+                "kordiY": -13042
+            },
+            "yakamoz": {
+                "kordiX": -21990,
+                "kordiY": -20343
+            },
+            "avrasya": {
+                "kordiX": -26795,
+                "kordiY": -16881
+            },
+            "pruva": {
+                "kordiX": -14841,
+                "kordiY": -5755
+            },
+            "velena": {
+                "kordiX": -18884,
+                "kordiY": -9275
+            },
+            "flador": {
+                "kordiX": -24581,
+                "kordiY": 6177
+            },
+            "astra": {
+                "kordiX": 24396,
+                "kordiY": 20117
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi24",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 14277,
+                "kordiY": -10077
+            },
+            "yakamoz": {
+                "kordiX": 22537,
+                "kordiY": 14908
+            },
+            "avrasya": {
+                "kordiX": -24135,
+                "kordiY": -8054
+            },
+            "pruva": {
+                "kordiX": 10687,
+                "kordiY": -5330
+            },
+            "velena": {
+                "kordiX": 27053,
+                "kordiY": -5646
+            },
+            "flador": {
+                "kordiX": -10521,
+                "kordiY": 18607
+            },
+            "astra": {
+                "kordiX": -11462,
+                "kordiY": -20264
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi25",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 18190,
+                "kordiY": -21253
+            },
+            "yakamoz": {
+                "kordiX": 22932,
+                "kordiY": 27251
+            },
+            "avrasya": {
+                "kordiX": 3718,
+                "kordiY": -25434
+            },
+            "pruva": {
+                "kordiX": 27526,
+                "kordiY": 14167
+            },
+            "velena": {
+                "kordiX": -13810,
+                "kordiY": -9800
+            },
+            "flador": {
+                "kordiX": 14228,
+                "kordiY": -8560
+            },
+            "astra": {
+                "kordiX": -27378,
+                "kordiY": 12409
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi26",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 14242,
+                "kordiY": -9521
+            },
+            "yakamoz": {
+                "kordiX": 24869,
+                "kordiY": -19700
+            },
+            "avrasya": {
+                "kordiX": 24153,
+                "kordiY": 14749
+            },
+            "pruva": {
+                "kordiX": 17887,
+                "kordiY": 21051
+            },
+            "velena": {
+                "kordiX": 22675,
+                "kordiY": -8066
+            },
+            "flador": {
+                "kordiX": 8395,
+                "kordiY": 3503
+            },
+            "astra": {
+                "kordiX": 17627,
+                "kordiY": 22848
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi27",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -6694,
+                "kordiY": -24053
+            },
+            "yakamoz": {
+                "kordiX": 6618,
+                "kordiY": -16993
+            },
+            "avrasya": {
+                "kordiX": 14305,
+                "kordiY": -13792
+            },
+            "pruva": {
+                "kordiX": -9285,
+                "kordiY": -17360
+            },
+            "velena": {
+                "kordiX": -23026,
+                "kordiY": 16682
+            },
+            "flador": {
+                "kordiX": -5139,
+                "kordiY": 738
+            },
+            "astra": {
+                "kordiX": 5759,
+                "kordiY": 14313
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi28",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 13306,
+                "kordiY": 8465
+            },
+            "yakamoz": {
+                "kordiX": 3043,
+                "kordiY": 19851
+            },
+            "avrasya": {
+                "kordiX": 2266,
+                "kordiY": 13214
+            },
+            "pruva": {
+                "kordiX": -3000,
+                "kordiY": 25000
+            },
+            "velena": {
+                "kordiX": 2000,
+                "kordiY": 14000
+            },
+            "flador": {
+                "kordiX": 24820,
+                "kordiY": -14866
+            },
+            "astra": {
+                "kordiX": -24657,
+                "kordiY": 13646
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi29",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 1300,
+                "kordiY": 6900
+            },
+            "yakamoz": {
+                "kordiX": -8500,
+                "kordiY": -18700
+            },
+            "avrasya": {
+                "kordiX": 12900,
+                "kordiY": -25600
+            },
+            "pruva": {
+                "kordiX": -24700,
+                "kordiY": -20000
+            },
+            "velena": {
+                "kordiX": -16300,
+                "kordiY": 13100
+            },
+            "flador": {
+                "kordiX": 2500,
+                "kordiY": 23400
+            },
+            "astra": {
+                "kordiX": 2700,
+                "kordiY": -23600
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi30",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 4400,
+                "kordiY": 6100
+            },
+            "yakamoz": {
+                "kordiX": -8700,
+                "kordiY": -1000
+            },
+            "avrasya": {
+                "kordiX": 1700,
+                "kordiY": 6600
+            },
+            "pruva": {
+                "kordiX": 22700,
+                "kordiY": 20300
+            },
+            "velena": {
+                "kordiX": -11800,
+                "kordiY": -15800
+            },
+            "flador": {
+                "kordiX": 19000,
+                "kordiY": 10500
+            },
+            "astra": {
+                "kordiX": 21500,
+                "kordiY": 8800
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi31",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 27000,
+                "kordiY": 2800
+            },
+            "yakamoz": {
+                "kordiX": -6000,
+                "kordiY": -12000
+            },
+            "avrasya": {
+                "kordiX": -10300,
+                "kordiY": -19500
+            },
+            "pruva": {
+                "kordiX": -700,
+                "kordiY": 0
+            },
+            "velena": {
+                "kordiX": -3500,
+                "kordiY": 24200
+            },
+            "flador": {
+                "kordiX": -23000,
+                "kordiY": 20000
+            },
+            "astra": {
+                "kordiX": -10600,
+                "kordiY": 18300
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi32",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -27500,
+                "kordiY": 4000
+            },
+            "yakamoz": {
+                "kordiX": -9600,
+                "kordiY": -4600
+            },
+            "avrasya": {
+                "kordiX": -13600,
+                "kordiY": 27600
+            },
+            "pruva": {
+                "kordiX": -9000,
+                "kordiY": -12500
+            },
+            "velena": {
+                "kordiX": 12600,
+                "kordiY": 15000
+            },
+            "flador": {
+                "kordiX": 6300,
+                "kordiY": 1500
+            },
+            "astra": {
+                "kordiX": 16800,
+                "kordiY": -11800
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi33",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 21200,
+                "kordiY": 14200
+            },
+            "yakamoz": {
+                "kordiX": 16400,
+                "kordiY": 4200
+            },
+            "avrasya": {
+                "kordiX": -21000,
+                "kordiY": 23000
+            },
+            "pruva": {
+                "kordiX": 7000,
+                "kordiY": 20500
+            },
+            "velena": {
+                "kordiX": 1700,
+                "kordiY": -7100
+            },
+            "flador": {
+                "kordiX": -19000,
+                "kordiY": 25000
+            },
+            "astra": {
+                "kordiX": 5700,
+                "kordiY": 13000
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi34",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -11500,
+                "kordiY": 0
+            },
+            "yakamoz": {
+                "kordiX": -5600,
+                "kordiY": 20300
+            },
+            "avrasya": {
+                "kordiX": -10700,
+                "kordiY": 17800
+            },
+            "pruva": {
+                "kordiX": -16100,
+                "kordiY": -2200
+            },
+            "velena": {
+                "kordiX": -19700,
+                "kordiY": 6800
+            },
+            "flador": {
+                "kordiX": 8700,
+                "kordiY": 3200
+            },
+            "astra": {
+                "kordiX": -24700,
+                "kordiY": 14000
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi35",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 11300,
+                "kordiY": -6500
+            },
+            "yakamoz": {
+                "kordiX": 16000,
+                "kordiY": 20700
+            },
+            "avrasya": {
+                "kordiX": -8500,
+                "kordiY": -25700
+            },
+            "pruva": {
+                "kordiX": -5600,
+                "kordiY": -800
+            },
+            "velena": {
+                "kordiX": -21500,
+                "kordiY": -20800
+            },
+            "flador": {
+                "kordiX": -25000,
+                "kordiY": -15800
+            },
+            "astra": {
+                "kordiX": -28000,
+                "kordiY": -17700
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi36",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -23500,
+                "kordiY": -23700
+            },
+            "yakamoz": {
+                "kordiX": -800,
+                "kordiY": -4200
+            },
+            "avrasya": {
+                "kordiX": 19000,
+                "kordiY": 20800
+            },
+            "pruva": {
+                "kordiX": -17400,
+                "kordiY": 19600
+            },
+            "velena": {
+                "kordiX": 14300,
+                "kordiY": -27000
+            },
+            "flador": {
+                "kordiX": 1300,
+                "kordiY": -10100
+            },
+            "astra": {
+                "kordiX": -26400,
+                "kordiY": -11600
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi37",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -1700,
+                "kordiY": -20000
+            },
+            "yakamoz": {
+                "kordiX": -200,
+                "kordiY": 12800
+            },
+            "avrasya": {
+                "kordiX": 9000,
+                "kordiY": -17500
+            },
+            "pruva": {
+                "kordiX": -7000,
+                "kordiY": -18900
+            },
+            "velena": {
+                "kordiX": -26500,
+                "kordiY": 14700
+            },
+            "flador": {
+                "kordiX": -12000,
+                "kordiY": 2500
+            },
+            "astra": {
+                "kordiX": -1500,
+                "kordiY": -27900
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi38",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 19300,
+                "kordiY": 4500
+            },
+            "yakamoz": {
+                "kordiX": -21500,
+                "kordiY": -3900
+            },
+            "avrasya": {
+                "kordiX": 11000,
+                "kordiY": -12000
+            },
+            "pruva": {
+                "kordiX": 10300,
+                "kordiY": -26500
+            },
+            "velena": {
+                "kordiX": -2600,
+                "kordiY": 18500
+            },
+            "flador": {
+                "kordiX": -23000,
+                "kordiY": 3000
+            },
+            "astra": {
+                "kordiX": -4200,
+                "kordiY": 3800
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi39",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -26400,
+                "kordiY": -3800
+            },
+            "yakamoz": {
+                "kordiX": 3300,
+                "kordiY": -4400
+            },
+            "avrasya": {
+                "kordiX": -16400,
+                "kordiY": -16900
+            },
+            "pruva": {
+                "kordiX": 2100,
+                "kordiY": -25300
+            },
+            "velena": {
+                "kordiX": -17900,
+                "kordiY": 10400
+            },
+            "flador": {
+                "kordiX": -22700,
+                "kordiY": 14700
+            },
+            "astra": {
+                "kordiX": 21700,
+                "kordiY": 22800
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi40",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 8220,
+                "kordiY": 400
+            },
+            "yakamoz": {
+                "kordiX": -14200,
+                "kordiY": 17600
+            },
+            "avrasya": {
+                "kordiX": -500,
+                "kordiY": 3600
+            },
+            "pruva": {
+                "kordiX": -1600,
+                "kordiY": -13900
+            },
+            "velena": {
+                "kordiX": 11800,
+                "kordiY": 25800
+            },
+            "flador": {
+                "kordiX": 14500,
+                "kordiY": 9400
+            },
+            "astra": {
+                "kordiX": -26300,
+                "kordiY": -24600
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi41",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -21589,
+                "kordiY": -22514
+            },
+            "yakamoz": {
+                "kordiX": 26424,
+                "kordiY": -14000
+            },
+            "avrasya": {
+                "kordiX": -15819,
+                "kordiY": -27618
+            },
+            "pruva": {
+                "kordiX": -6252,
+                "kordiY": -14890
+            },
+            "velena": {
+                "kordiX": 13205,
+                "kordiY": 20219
+            },
+            "flador": {
+                "kordiX": -23502,
+                "kordiY": -17321
+            },
+            "astra": {
+                "kordiX": 6445,
+                "kordiY": 2238
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi42",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -2694,
+                "kordiY": 10381
+            },
+            "yakamoz": {
+                "kordiX": -8786,
+                "kordiY": 9719
+            },
+            "avrasya": {
+                "kordiX": 19077,
+                "kordiY": -1455
+            },
+            "pruva": {
+                "kordiX": 14456,
+                "kordiY": 1015
+            },
+            "velena": {
+                "kordiX": -26228,
+                "kordiY": -2759
+            },
+            "flador": {
+                "kordiX": 12370,
+                "kordiY": 24857
+            },
+            "astra": {
+                "kordiX": 24437,
+                "kordiY": 14289
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi43",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -20161,
+                "kordiY": -22966
+            },
+            "yakamoz": {
+                "kordiX": -15149,
+                "kordiY": 8467
+            },
+            "avrasya": {
+                "kordiX": -18271,
+                "kordiY": -14529
+            },
+            "pruva": {
+                "kordiX": 26799,
+                "kordiY": -21641
+            },
+            "velena": {
+                "kordiX": 21383,
+                "kordiY": 3060
+            },
+            "flador": {
+                "kordiX": 11426,
+                "kordiY": -21938
+            },
+            "astra": {
+                "kordiX": -8989,
+                "kordiY": 25585
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi44",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 8766,
+                "kordiY": -21540
+            },
+            "yakamoz": {
+                "kordiX": -948,
+                "kordiY": 27405
+            },
+            "avrasya": {
+                "kordiX": 14071,
+                "kordiY": -2408
+            },
+            "pruva": {
+                "kordiX": 9800,
+                "kordiY": 2265
+            },
+            "velena": {
+                "kordiX": -8567,
+                "kordiY": -6860
+            },
+            "flador": {
+                "kordiX": 9289,
+                "kordiY": -9625
+            },
+            "astra": {
+                "kordiX": -20831,
+                "kordiY": 17707
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi45",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 14233,
+                "kordiY": -6869
+            },
+            "yakamoz": {
+                "kordiX": 25925,
+                "kordiY": -4319
+            },
+            "avrasya": {
+                "kordiX": -6311,
+                "kordiY": -2310
+            },
+            "pruva": {
+                "kordiX": -9461,
+                "kordiY": -1681
+            },
+            "velena": {
+                "kordiX": 10601,
+                "kordiY": 22725
+            },
+            "flador": {
+                "kordiX": -18482,
+                "kordiY": 13334
+            },
+            "astra": {
+                "kordiX": 21243,
+                "kordiY": -19090
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi46",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -6540,
+                "kordiY": 2404
+            },
+            "yakamoz": {
+                "kordiX": 22947,
+                "kordiY": -22871
+            },
+            "avrasya": {
+                "kordiX": -558,
+                "kordiY": 22699
+            },
+            "pruva": {
+                "kordiX": -972,
+                "kordiY": -14839
+            },
+            "velena": {
+                "kordiX": 7972,
+                "kordiY": 23723
+            },
+            "flador": {
+                "kordiX": -1843,
+                "kordiY": 25608
+            },
+            "astra": {
+                "kordiX": -8954,
+                "kordiY": 22567
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi47",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -6786,
+                "kordiY": -9144
+            },
+            "yakamoz": {
+                "kordiX": 18185,
+                "kordiY": 15146
+            },
+            "avrasya": {
+                "kordiX": 25098,
+                "kordiY": -19560
+            },
+            "pruva": {
+                "kordiX": 8442,
+                "kordiY": -4764
+            },
+            "velena": {
+                "kordiX": -18436,
+                "kordiY": 9008
+            },
+            "flador": {
+                "kordiX": 121,
+                "kordiY": 7095
+            },
+            "astra": {
+                "kordiX": -20890,
+                "kordiY": 26332
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi48",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -24323,
+                "kordiY": -1481
+            },
+            "yakamoz": {
+                "kordiX": -27917,
+                "kordiY": -13080
+            },
+            "avrasya": {
+                "kordiX": 3568,
+                "kordiY": -11371
+            },
+            "pruva": {
+                "kordiX": -13423,
+                "kordiY": -26889
+            },
+            "velena": {
+                "kordiX": 19236,
+                "kordiY": 18592
+            },
+            "flador": {
+                "kordiX": 25132,
+                "kordiY": -2730
+            },
+            "astra": {
+                "kordiX": -24301,
+                "kordiY": -11616
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi49",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -13276,
+                "kordiY": 22685
+            },
+            "yakamoz": {
+                "kordiX": 16744,
+                "kordiY": -12506
+            },
+            "avrasya": {
+                "kordiX": 22052,
+                "kordiY": 8089
+            },
+            "pruva": {
+                "kordiX": -20334,
+                "kordiY": -4996
+            },
+            "velena": {
+                "kordiX": 23570,
+                "kordiY": 17785
+            },
+            "flador": {
+                "kordiX": -13940,
+                "kordiY": -6295
+            },
+            "astra": {
+                "kordiX": 4739,
+                "kordiY": 19968
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi50",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -8123,
+                "kordiY": 11339
+            },
+            "yakamoz": {
+                "kordiX": -4093,
+                "kordiY": -21895
+            },
+            "avrasya": {
+                "kordiX": 19215,
+                "kordiY": -24513
+            },
+            "pruva": {
+                "kordiX": 26709,
+                "kordiY": 11201
+            },
+            "velena": {
+                "kordiX": -15263,
+                "kordiY": -1608
+            },
+            "flador": {
+                "kordiX": 21449,
+                "kordiY": -8650
+            },
+            "astra": {
+                "kordiX": 26462,
+                "kordiY": 27943
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi51",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -15797,
+                "kordiY": -12930
+            },
+            "yakamoz": {
+                "kordiX": -3625,
+                "kordiY": -13405
+            },
+            "avrasya": {
+                "kordiX": 10714,
+                "kordiY": 10616
+            },
+            "pruva": {
+                "kordiX": 12402,
+                "kordiY": -837
+            },
+            "velena": {
+                "kordiX": 20019,
+                "kordiY": 13000
+            },
+            "flador": {
+                "kordiX": -2594,
+                "kordiY": -12594
+            },
+            "astra": {
+                "kordiX": -25681,
+                "kordiY": -18712
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi52",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -21657,
+                "kordiY": -20774
+            },
+            "yakamoz": {
+                "kordiX": -11921,
+                "kordiY": 12888
+            },
+            "avrasya": {
+                "kordiX": 2067,
+                "kordiY": 15093
+            },
+            "pruva": {
+                "kordiX": 9436,
+                "kordiY": -21772
+            },
+            "velena": {
+                "kordiX": 11399,
+                "kordiY": 20703
+            },
+            "flador": {
+                "kordiX": -9013,
+                "kordiY": 6717
+            },
+            "astra": {
+                "kordiX": 26359,
+                "kordiY": -10361
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi53",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 19381,
+                "kordiY": 15300
+            },
+            "yakamoz": {
+                "kordiX": -15468,
+                "kordiY": 0
+            },
+            "avrasya": {
+                "kordiX": -21025,
+                "kordiY": -4559
+            },
+            "pruva": {
+                "kordiX": -5003,
+                "kordiY": 24794
+            },
+            "velena": {
+                "kordiX": -8127,
+                "kordiY": 10331
+            },
+            "flador": {
+                "kordiX": -5375,
+                "kordiY": 14890
+            },
+            "astra": {
+                "kordiX": 19864,
+                "kordiY": 12758
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi54",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -22296,
+                "kordiY": -9326
+            },
+            "yakamoz": {
+                "kordiX": -1324,
+                "kordiY": -3567
+            },
+            "avrasya": {
+                "kordiX": -19683,
+                "kordiY": -21726
+            },
+            "pruva": {
+                "kordiX": -2491,
+                "kordiY": -23593
+            },
+            "velena": {
+                "kordiX": 1589,
+                "kordiY": -1462
+            },
+            "flador": {
+                "kordiX": 9166,
+                "kordiY": 22506
+            },
+            "astra": {
+                "kordiX": -23332,
+                "kordiY": 1637
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi55",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -15746,
+                "kordiY": 6554
+            },
+            "yakamoz": {
+                "kordiX": -26933,
+                "kordiY": 6886
+            },
+            "avrasya": {
+                "kordiX": 15638,
+                "kordiY": 1213
+            },
+            "pruva": {
+                "kordiX": -26038,
+                "kordiY": -8690
+            },
+            "velena": {
+                "kordiX": -5352,
+                "kordiY": 21457
+            },
+            "flador": {
+                "kordiX": 13326,
+                "kordiY": 27600
+            },
+            "astra": {
+                "kordiX": -13839,
+                "kordiY": 18117
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi56",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -27251,
+                "kordiY": -21000
+            },
+            "yakamoz": {
+                "kordiX": -8201,
+                "kordiY": 4250
+            },
+            "avrasya": {
+                "kordiX": 24543,
+                "kordiY": 6917
+            },
+            "pruva": {
+                "kordiX": 26380,
+                "kordiY": -25640
+            },
+            "velena": {
+                "kordiX": -13182,
+                "kordiY": 11093
+            },
+            "flador": {
+                "kordiX": 14280,
+                "kordiY": -1449
+            },
+            "astra": {
+                "kordiX": 27581,
+                "kordiY": -3747
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi57",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -3553,
+                "kordiY": 12873
+            },
+            "yakamoz": {
+                "kordiX": 20028,
+                "kordiY": -8920
+            },
+            "avrasya": {
+                "kordiX": 1517,
+                "kordiY": 8477
+            },
+            "pruva": {
+                "kordiX": 18760,
+                "kordiY": 25014
+            },
+            "velena": {
+                "kordiX": 20518,
+                "kordiY": -20369
+            },
+            "flador": {
+                "kordiX": 22044,
+                "kordiY": 25139
+            },
+            "astra": {
+                "kordiX": 3666,
+                "kordiY": -8345
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi58",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 1494,
+                "kordiY": 7216
+            },
+            "yakamoz": {
+                "kordiX": -17874,
+                "kordiY": -20127
+            },
+            "avrasya": {
+                "kordiX": -24039,
+                "kordiY": 18489
+            },
+            "pruva": {
+                "kordiX": -19420,
+                "kordiY": -3045
+            },
+            "velena": {
+                "kordiX": 15001,
+                "kordiY": -24817
+            },
+            "flador": {
+                "kordiX": 19685,
+                "kordiY": 14205
+            },
+            "astra": {
+                "kordiX": -4302,
+                "kordiY": 20781
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi59",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 15994,
+                "kordiY": -8538
+            },
+            "yakamoz": {
+                "kordiX": 3304,
+                "kordiY": 13842
+            },
+            "avrasya": {
+                "kordiX": -20051,
+                "kordiY": -5690
+            },
+            "pruva": {
+                "kordiX": 14817,
+                "kordiY": -5354
+            },
+            "velena": {
+                "kordiX": -9689,
+                "kordiY": 26584
+            },
+            "flador": {
+                "kordiX": -876,
+                "kordiY": -3902
+            },
+            "astra": {
+                "kordiX": 10369,
+                "kordiY": -1824
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi60",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 6864,
+                "kordiY": -8826
+            },
+            "yakamoz": {
+                "kordiX": 24625,
+                "kordiY": 1680
+            },
+            "avrasya": {
+                "kordiX": 308,
+                "kordiY": 11023
+            },
+            "pruva": {
+                "kordiX": 14497,
+                "kordiY": 7232
+            },
+            "velena": {
+                "kordiX": -11600,
+                "kordiY": 7846
+            },
+            "flador": {
+                "kordiX": 19400,
+                "kordiY": -11200
+            },
+            "astra": {
+                "kordiX": 14241,
+                "kordiY": 4828
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi61",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -12791,
+                "kordiY": 5756
+            },
+            "yakamoz": {
+                "kordiX": -27206,
+                "kordiY": -10954
+            },
+            "avrasya": {
+                "kordiX": 17956,
+                "kordiY": -25323
+            },
+            "pruva": {
+                "kordiX": -20406,
+                "kordiY": -1438
+            },
+            "velena": {
+                "kordiX": 1652,
+                "kordiY": -15214
+            },
+            "flador": {
+                "kordiX": -5400,
+                "kordiY": 15600
+            },
+            "astra": {
+                "kordiX": -8154,
+                "kordiY": 4435
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi62",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 27523,
+                "kordiY": -8936
+            },
+            "yakamoz": {
+                "kordiX": -9504,
+                "kordiY": 24792
+            },
+            "avrasya": {
+                "kordiX": 1265,
+                "kordiY": -2057
+            },
+            "pruva": {
+                "kordiX": 12253,
+                "kordiY": 3376
+            },
+            "velena": {
+                "kordiX": 26434,
+                "kordiY": 424
+            },
+            "flador": {
+                "kordiX": 14073,
+                "kordiY": 1216
+            },
+            "astra": {
+                "kordiX": -27370,
+                "kordiY": -11761
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi63",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -11171,
+                "kordiY": -23355
+            },
+            "yakamoz": {
+                "kordiX": -3470,
+                "kordiY": 26767
+            },
+            "avrasya": {
+                "kordiX": 7436,
+                "kordiY": 3816
+            },
+            "pruva": {
+                "kordiX": 4960,
+                "kordiY": -1213
+            },
+            "velena": {
+                "kordiX": 18273,
+                "kordiY": -27323
+            },
+            "flador": {
+                "kordiX": 26430,
+                "kordiY": -12500
+            },
+            "astra": {
+                "kordiX": -21581,
+                "kordiY": -16441
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi64",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -4668,
+                "kordiY": 3091
+            },
+            "yakamoz": {
+                "kordiX": -4668,
+                "kordiY": 3091
+            },
+            "avrasya": {
+                "kordiX": -24638,
+                "kordiY": -12948
+            },
+            "pruva": {
+                "kordiX": -8147,
+                "kordiY": -1657
+            },
+            "velena": {
+                "kordiX": 17011,
+                "kordiY": -25925
+            },
+            "flador": {
+                "kordiX": -13600,
+                "kordiY": -17600
+            },
+            "astra": {
+                "kordiX": 16144,
+                "kordiY": 17356
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi65",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -16649,
+                "kordiY": -17264
+            },
+            "yakamoz": {
+                "kordiX": 3869,
+                "kordiY": 12731
+            },
+            "avrasya": {
+                "kordiX": 9248,
+                "kordiY": -1912
+            },
+            "pruva": {
+                "kordiX": -25766,
+                "kordiY": 21031
+            },
+            "velena": {
+                "kordiX": -15766,
+                "kordiY": 19129
+            },
+            "flador": {
+                "kordiX": -17500,
+                "kordiY": -17000
+            },
+            "astra": {
+                "kordiX": -6751,
+                "kordiY": -18391
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi66",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 21107,
+                "kordiY": -16689
+            },
+            "yakamoz": {
+                "kordiX": -1854,
+                "kordiY": 11932
+            },
+            "avrasya": {
+                "kordiX": 22638,
+                "kordiY": -5712
+            },
+            "pruva": {
+                "kordiX": -14987,
+                "kordiY": 11189
+            },
+            "velena": {
+                "kordiX": 23565,
+                "kordiY": 2876
+            },
+            "flador": {
+                "kordiX": -27000,
+                "kordiY": 23000
+            },
+            "astra": {
+                "kordiX": 18723,
+                "kordiY": -26874
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi67",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -15573,
+                "kordiY": -2105
+            },
+            "yakamoz": {
+                "kordiX": -8617,
+                "kordiY": 11585
+            },
+            "avrasya": {
+                "kordiX": -7214,
+                "kordiY": -11448
+            },
+            "pruva": {
+                "kordiX": -5049,
+                "kordiY": -20808
+            },
+            "velena": {
+                "kordiX": -20756,
+                "kordiY": 17994
+            },
+            "flador": {
+                "kordiX": 12286,
+                "kordiY": -16790
+            },
+            "astra": {
+                "kordiX": 1000,
+                "kordiY": -1000
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi68",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -5123,
+                "kordiY": 27113
+            },
+            "yakamoz": {
+                "kordiX": -2450,
+                "kordiY": -9413
+            },
+            "avrasya": {
+                "kordiX": -3116,
+                "kordiY": -20165
+            },
+            "pruva": {
+                "kordiX": -22002,
+                "kordiY": -3096
+            },
+            "velena": {
+                "kordiX": 8430,
+                "kordiY": -21770
+            },
+            "flador": {
+                "kordiX": -15026,
+                "kordiY": -26761
+            },
+            "astra": {
+                "kordiX": -18203,
+                "kordiY": 25546
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi69",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 15199,
+                "kordiY": 9419
+            },
+            "yakamoz": {
+                "kordiX": -26735,
+                "kordiY": -23973
+            },
+            "avrasya": {
+                "kordiX": 1269,
+                "kordiY": 1530
+            },
+            "pruva": {
+                "kordiX": -16013,
+                "kordiY": 20214
+            },
+            "velena": {
+                "kordiX": -22832,
+                "kordiY": 13239
+            },
+            "flador": {
+                "kordiX": -15839,
+                "kordiY": -2861
+            },
+            "astra": {
+                "kordiX": -2919,
+                "kordiY": 25445
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi70",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 4392,
+                "kordiY": -18756
+            },
+            "yakamoz": {
+                "kordiX": -20351,
+                "kordiY": -16781
+            },
+            "avrasya": {
+                "kordiX": -6373,
+                "kordiY": 6166
+            },
+            "pruva": {
+                "kordiX": 15486,
+                "kordiY": 26721
+            },
+            "velena": {
+                "kordiX": 721,
+                "kordiY": -23811
+            },
+            "flador": {
+                "kordiX": -8575,
+                "kordiY": 1406
+            },
+            "astra": {
+                "kordiX": -7311,
+                "kordiY": -15059
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi71",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -22607,
+                "kordiY": 8579
+            },
+            "yakamoz": {
+                "kordiX": -1443,
+                "kordiY": 27041
+            },
+            "avrasya": {
+                "kordiX": 2409,
+                "kordiY": 12204
+            },
+            "pruva": {
+                "kordiX": -10239,
+                "kordiY": -19888
+            },
+            "velena": {
+                "kordiX": 12249,
+                "kordiY": 7839
+            },
+            "flador": {
+                "kordiX": -4144,
+                "kordiY": 19764
+            },
+            "astra": {
+                "kordiX": -895,
+                "kordiY": -1317
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi72",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 12649,
+                "kordiY": -23146
+            },
+            "yakamoz": {
+                "kordiX": -4948,
+                "kordiY": -4249
+            },
+            "avrasya": {
+                "kordiX": -17251,
+                "kordiY": 13453
+            },
+            "pruva": {
+                "kordiX": -22126,
+                "kordiY": 10429
+            },
+            "velena": {
+                "kordiX": 23735,
+                "kordiY": 9032
+            },
+            "flador": {
+                "kordiX": 21365,
+                "kordiY": -11747
+            },
+            "astra": {
+                "kordiX": 16304,
+                "kordiY": -21499
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi81",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 21348,
+                "kordiY": -4550
+            },
+            "yakamoz": {
+                "kordiX": 344,
+                "kordiY": -18268
+            },
+            "avrasya": {
+                "kordiX": 19325,
+                "kordiY": 7785
+            },
+            "pruva": {
+                "kordiX": -19186,
+                "kordiY": -14274
+            },
+            "velena": {
+                "kordiX": 5000,
+                "kordiY": -5000
+            },
+            "flador": {
+                "kordiX": -14114,
+                "kordiY": -2521
+            },
+            "astra": {
+                "kordiX": -4311,
+                "kordiY": -23656
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi82",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -18859,
+                "kordiY": -21472
+            },
+            "yakamoz": {
+                "kordiX": 6877,
+                "kordiY": 3752
+            },
+            "avrasya": {
+                "kordiX": 21244,
+                "kordiY": 5517
+            },
+            "pruva": {
+                "kordiX": 19320,
+                "kordiY": -7521
+            },
+            "velena": {
+                "kordiX": 21950,
+                "kordiY": -17000
+            },
+            "flador": {
+                "kordiX": -5307,
+                "kordiY": -12137
+            },
+            "astra": {
+                "kordiX": 18794,
+                "kordiY": 23383
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi83",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -7157,
+                "kordiY": 11692
+            },
+            "yakamoz": {
+                "kordiX": -24975,
+                "kordiY": -13934
+            },
+            "avrasya": {
+                "kordiX": -18581,
+                "kordiY": -11859
+            },
+            "pruva": {
+                "kordiX": -19136,
+                "kordiY": -6761
+            },
+            "velena": {
+                "kordiX": -20240,
+                "kordiY": -8685
+            },
+            "flador": {
+                "kordiX": -11378,
+                "kordiY": 15126
+            },
+            "astra": {
+                "kordiX": 18626,
+                "kordiY": 1616
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi84",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": -24898,
+                "kordiY": 25810
+            },
+            "yakamoz": {
+                "kordiX": 25539,
+                "kordiY": -10686
+            },
+            "avrasya": {
+                "kordiX": -18236,
+                "kordiY": -25797
+            },
+            "pruva": {
+                "kordiX": -15748,
+                "kordiY": -1820
+            },
+            "velena": {
+                "kordiX": -3513,
+                "kordiY": 22438
+            },
+            "flador": {
+                "kordiX": -25619,
+                "kordiY": -23289
+            },
+            "astra": {
+                "kordiX": -18350,
+                "kordiY": 12337
+            }
+        }
+    },
+    {
+        "hesapismi": "lwarelkordi85",
+        "kordinatlar": {
+            "sancak": {
+                "kordiX": 25124,
+                "kordiY": 10761
+            },
+            "yakamoz": {
+                "kordiX": -3923,
+                "kordiY": -8509
+            },
+            "avrasya": {
+                "kordiX": -13218,
+                "kordiY": 18424
+            },
+            "pruva": {
+                "kordiX": -3523,
+                "kordiY": -3048
+            },
+            "velena": {
+                "kordiX": -9104,
+                "kordiY": -24024
+            },
+            "flador": {
+                "kordiX": 16445,
+                "kordiY": 461
+            },
+            "astra": {
+                "kordiX": -13752,
+                "kordiY": -95
+            }
+        }
+    }
+]
